@@ -1,13 +1,9 @@
-# Concepto_14 / Concept_14
+# Filosofía UNIX / UNIX Philosophy
+**Definición formal:** 
+Conjunto de directrices de diseño modular e iterativo para el desarrollo de software desarrolladas por los creadores de UNIX, basadas en la premisa de que cada programa debe hacer una sola cosa y hacerla bien[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Define la *abstracción* y la arquitectura del sistema operativo[cite: 4], garantizando que el núcleo (kernel) delegue tareas complejas a una red de utilidades pequeñas del espacio de usuario conectadas mediante descriptores de E/S, maximizando la robustez y mantenibilidad.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

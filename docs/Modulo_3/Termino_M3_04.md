@@ -1,13 +1,9 @@
-# Concepto_4 / Concept_4
+# Límites de RAM (memory.max) / RAM Limits (memory.max)
+**Definición formal:** 
+Parámetro de control de recursos en cgroups v2 que establece el consumo estricto máximo de memoria física permitido para un grupo de procesos.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce el *control de hardware* preventivo y actúa como *árbitro* estricto de *seguridad* y *rendimiento*, forzando la finalización (vía OOM Killer) de aplicaciones que excedan su cuota para evitar la degradación total del sistema.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

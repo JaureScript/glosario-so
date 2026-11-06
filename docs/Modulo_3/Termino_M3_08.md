@@ -1,13 +1,9 @@
-# Concepto_8 / Concept_8
+# lmkd / Low Memory Killer Daemon
+**Definición formal:** 
+Demonio en Android encargado de supervisar el uso de la memoria del sistema y terminar de forma preventiva procesos de baja prioridad cuando la memoria RAM escasea críticamente.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Interviene como un *árbitro* reactivo de *rendimiento* y *control de hardware* en entornos móviles. Protege la *seguridad* operativa del sistema sacrificando aplicaciones en segundo plano para evitar fallos catastróficos por agotamiento de RAM física.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

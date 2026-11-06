@@ -6,4 +6,4 @@ Registro especial del procesador que almacena la dirección de memoria de la sig
 Es un componente indispensable para el *control de hardware* y la gestión del *rendimiento* en el planificador. El núcleo guarda y restaura activamente este registro en cada cambio de contexto para reanudar con precisión matemática la ejecución de hilos suspendidos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

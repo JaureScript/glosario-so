@@ -1,13 +1,9 @@
-# Concepto_4 / Concept_4
+# Espacio de Kernel / Kernel Space
+**Definición formal:** 
+Región de memoria protegida y privilegiada del sistema operativo donde se ejecuta el núcleo y los controladores de dispositivos de bajo nivel (Ring 0)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce el rol de *control de hardware* y garantiza la *seguridad*[cite: 4] absoluta del sistema; es la zona de exclusión donde el núcleo gestiona interrupciones y manipula tablas de páginas sin interferencia del espacio de usuario.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

@@ -1,13 +1,9 @@
-# Concepto_24 / Concept_24
+# HDD (Hard Disk Drive) / HDD
+**Definición formal:** 
+Dispositivo de almacenamiento de datos electromecánico tradicional basado en platos magnéticos giratorios y cabezales móviles de lectura/escritura.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye la base del almacenamiento secundario. Debido a su alta latencia mecánica, obliga al sistema operativo a implementar algoritmos complejos de *abstracción* (como SCAN o C-SCAN) y técnicas de *rendimiento* (Spooling) para mitigar el cuello de botella físico.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

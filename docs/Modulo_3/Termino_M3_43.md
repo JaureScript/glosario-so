@@ -1,13 +1,9 @@
-# Concepto_43 / Concept_43
+# Paravirtualización / Paravirtualization
+**Definición formal:** 
+Técnica de virtualización donde el sistema operativo invitado (Guest OS) está modificado conscientemente para comunicarse de manera hiperoptimizada con el hipervisor, reduciendo la sobrecarga[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Elimina las ineficiencias de la *abstracción* virtual completa. Mejora sustancialmente el *rendimiento* al permitir que el sistema invitado coordine explícitamente el *control de hardware* con el hipervisor base, manteniendo las barreras de *seguridad* y aislamiento intactas[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

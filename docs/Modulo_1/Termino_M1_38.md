@@ -6,4 +6,4 @@ Estrategia de optimización utilizada en la gestión de memoria y sistemas de ar
 Optimiza de forma drástica el *rendimiento* y la asignación eficiente del *hardware*. Posibilita operaciones operativas críticas, como la creación acelerada de procesos hijos (llamada al sistema fork), evitando duplicaciones costosas en memoria física.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

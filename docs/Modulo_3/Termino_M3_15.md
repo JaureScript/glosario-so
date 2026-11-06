@@ -1,13 +1,9 @@
-# Concepto_15 / Concept_15
+# Metadatos / Metadata
+**Definición formal:** 
+Datos estructurados que describen las características, propiedades y organización de otros datos (ej. permisos, tamaños y fechas en los sistemas de archivos).
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Son fundamentales para que el *árbitro* de almacenamiento aplique políticas de *seguridad* (como controles de acceso por usuario) y agilice el *rendimiento* en las búsquedas lógicas, proporcionando una *abstracción* organizativa sólida sobre la disposición física de los bloques en el disco.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

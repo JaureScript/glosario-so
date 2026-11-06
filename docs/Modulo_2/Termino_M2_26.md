@@ -1,13 +1,9 @@
-# Concepto_26 / Concept_26
+# Hipervisor / Hypervisor
+**Definición formal:** 
+Capa de software o firmware (también llamada monitor de máquina virtual) que permite crear, gestionar y ejecutar múltiples máquinas virtuales sobre una misma infraestructura física de hardware.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como el *árbitro* y *controlador de hardware* supremo en entornos virtualizados. Aísla criptográficamente y particiona los recursos físicos, garantizando *seguridad* estricta entre sistemas operativos invitados paralelos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

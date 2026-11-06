@@ -1,13 +1,9 @@
-# Concepto_47 / Concept_47
+# PID (Process ID) / Process ID (PID)
+**Definición formal:** 
+Identificador numérico único asignado por el núcleo del sistema operativo a cada proceso activo en el sistema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* fundamental para el *árbitro* de procesos. Permite al planificador rastrear, interrogar y aplicar señales de *control de hardware* (como terminaciones forzadas por *seguridad*) a entidades de software específicas sin ambigüedad[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

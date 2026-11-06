@@ -1,13 +1,9 @@
-# Concepto_13 / Concept_13
+# MAC / Mandatory Access Control
+**Definición formal:** 
+Modelo de seguridad en el que el sistema operativo centralizado restringe de manera estricta la capacidad de los usuarios o procesos para modificar los permisos o accesos a los objetos, basándose en políticas globales estrictas.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Opera como el *árbitro* supremo de *seguridad*. Abstrae los privilegios más allá del control del usuario (como en el modelo DAC), previniendo vulnerabilidades críticas mediante el bloqueo de accesos de software basado en etiquetas inmutables gestionadas directamente por el núcleo.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

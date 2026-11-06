@@ -6,4 +6,4 @@ Controlador de hardware especializado que permite a los periféricos transferir 
 Maximiza el *rendimiento* global al descentralizar el *control de hardware*. Libera valiosos ciclos de reloj del procesador central durante transferencias masivas de datos, permitiendo que la CPU continúe despachando procesos de usuario concurrentemente.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

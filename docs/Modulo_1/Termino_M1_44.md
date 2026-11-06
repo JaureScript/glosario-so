@@ -6,4 +6,4 @@ Módulo de software especializado que actúa como interfaz de comunicación entr
 Es el pilar fundamental del *control de hardware*. Traduce las instrucciones genéricas, provistas por la capa de *abstracción* del núcleo, en comandos eléctricos, registros y señales especializadas comprensibles para el periférico físico objetivo.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

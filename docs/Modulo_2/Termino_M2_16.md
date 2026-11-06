@@ -1,13 +1,9 @@
-# Concepto_16 / Concept_16
+# fork() / fork()
+**Definición formal:** 
+Llamada al sistema clásica en sistemas UNIX que duplica el proceso actual creando un proceso hijo prácticamente idéntico, diferenciándose únicamente por el valor de retorno devuelto[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la abstracción fundamental para la *creación y control de procesos*. Interviene en el *rendimiento* del sistema operativo[cite: 4] al optimizar la duplicación del espacio de memoria mediante técnicas de hardware como Copy-on-Write (CoW).
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

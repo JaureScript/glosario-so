@@ -1,13 +1,9 @@
-# Concepto_27 / Concept_27
+# Mount Namespace
+**Definición formal:** 
+Espacio de nombres de Linux que aísla la jerarquía de puntos de montaje del sistema de archivos para un grupo de procesos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Brinda una potente capa de *seguridad* y *abstracción*[cite: 4]. Permite que los contenedores posean un sistema de archivos raíz completamente independiente, evitando que interfieran con el almacenamiento y el *control de hardware* del equipo anfitrión.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

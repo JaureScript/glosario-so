@@ -1,13 +1,9 @@
-# Concepto_42 / Concept_42
+# Paralelismo / Parallelism
+**Definición formal:** 
+Propiedad de un sistema hardware/software donde múltiples tareas o instrucciones se ejecutan de forma estrictamente simultánea en núcleos de procesador físicos independientes[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Multiplica el *rendimiento* computacional bruto. Exige que el núcleo actúe como un *árbitro* preciso de *hardware*, despachando hilos a través de múltiples unidades lógicas y aplicando estrictos controles de *seguridad* (exclusión mutua) sobre la memoria compartida[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

@@ -1,13 +1,9 @@
-# Concepto_29 / Concept_29
+# Hilo (Thread) / Thread
+**Definición formal:** 
+Unidad básica de ejecución más pequeña que un sistema operativo puede planificar y ejecutar dentro de un proceso. Los hilos comparten el espacio de direcciones de su proceso padre.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la clave para el *rendimiento* concurrente y la escalabilidad del procesador. Permite al *árbitro* (planificador) despachar múltiples secuencias de instrucciones de una misma aplicación hacia distintos núcleos físicos simultáneamente, reduciendo la penalización por cambio de contexto.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

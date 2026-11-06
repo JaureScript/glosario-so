@@ -1,13 +1,9 @@
-# Concepto_26 / Concept_26
+# Montón / Heap
+**Definición formal:** 
+Región de memoria dinámica asignada por el proceso en tiempo de ejecución para el almacenamiento de datos cuyo tamaño o ciclo de vida no se conoce estáticamente de antemano[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Impacta en el *rendimiento* y la *abstracción* de memoria[cite: 4]. Requiere que el sistema operativo actúe como *árbitro* constante (mediante llamadas como sbrk), previniendo la fragmentación y vulnerabilidades de *seguridad* como los desbordamientos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

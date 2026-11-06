@@ -1,13 +1,9 @@
-# Concepto_18 / Concept_18
+# Fragmentación Interna / Internal Fragmentation
+**Definición formal:** 
+Ineficiencia de la memoria que surge cuando el espacio asignado a un proceso es ligeramente mayor que el requerido por este, desperdiciando el espacio sobrante dentro del bloque o marco asignado[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Afecta el *rendimiento* y la correcta *abstracción*[cite: 4] de la memoria. Ocurre como un efecto secundario inevitable de las políticas del árbitro de memoria al forzar que la asignación de hardware se ajuste estrictamente a tamaños de página fijos (ej. 4 KB).
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

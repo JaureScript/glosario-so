@@ -1,13 +1,9 @@
-# Concepto_31 / Concept_31
+# Network Namespace / Network Namespace
+**Definición formal:** 
+Espacio de nombres de Linux que aísla las interfaces de red, las tablas de enrutamiento y las reglas de filtrado de paquetes (firewall) para contenedores[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* y aislamiento de *seguridad* fundamental a nivel de red[cite: 4], permitiendo que el núcleo asigne pilas de protocolos independientes y virtuales sin generar conflictos de *control de hardware* en las tarjetas físicas del equipo anfitrión.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

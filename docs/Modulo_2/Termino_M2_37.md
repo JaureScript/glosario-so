@@ -1,13 +1,9 @@
-# Concepto_37 / Concept_37
+# Indice Inodo / Inode
+**Definición formal:** 
+Estructura de datos fundamental en los sistemas de archivos tipo UNIX que almacena todos los metadatos de un archivo (permisos, tamaño, propietario, fechas) a excepción de su nombre y contenido real.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la estructura principal de *abstracción* y *seguridad* en el almacenamiento físico. Permite al núcleo resolver el mapeo exacto hacia los bloques del disco duro (control de hardware) y aplicar políticas restrictivas de acceso con máxima eficiencia.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

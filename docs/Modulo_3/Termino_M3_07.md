@@ -1,13 +1,9 @@
-# Concepto_7 / Concept_7
+# Linux Namespaces / Linux Namespaces
+**Definición formal:** 
+Característica del núcleo Linux que aísla los recursos globales del sistema de un grupo de procesos, constituyendo la base fundamental para la tecnología de contenedores.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye la *abstracción* arquitectónica que proporciona *seguridad* de aislamiento, permitiendo particionar lógicamente el sistema de archivos, la red y el árbol de procesos sin la pesada penalización de *rendimiento* de la virtualización de hardware.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

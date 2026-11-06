@@ -6,4 +6,4 @@ Programa de inicio encargado de cargar el núcleo del sistema operativo en la me
 Actúa como el *puente de abstracción* inicial entre el firmware estático y el núcleo dinámico, preparando el entorno de ejecución en modo protegido y montando el sistema de archivos raíz temporal (initramfs).
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

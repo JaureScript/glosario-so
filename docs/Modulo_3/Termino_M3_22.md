@@ -1,13 +1,9 @@
-# Concepto_22 / Concept_22
+# Modo Usuario / User Mode
+**Definición formal:** 
+Modo de ejecución restringido del procesador (Ring 3), destinado a las aplicaciones de usuario donde se impide el acceso directo al hardware y a las estructuras críticas del sistema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona la *abstracción* primaria de *seguridad*[cite: 4]. Aísla la ejecución de programas regulares, obligándolos a solicitar servicios a través de llamadas al sistema, lo que evita que un proceso defectuoso comprometa el *rendimiento* y estabilidad de la máquina.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

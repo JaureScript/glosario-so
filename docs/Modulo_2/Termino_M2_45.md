@@ -1,13 +1,9 @@
-# Concepto_45 / Concept_45
+# Inversión de Prioridades / Priority Inversion
+**Definición formal:** 
+Anomalía de planificación en la cual un proceso de alta prioridad se ve indirectamente bloqueado a la espera de un recurso retenido por un proceso de baja prioridad, el cual a su vez es desbancado por procesos de prioridad media.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Afecta negativamente el *rendimiento* determinista de los sistemas en tiempo real, obligando al planificador y al *árbitro* de sincronización del núcleo a implementar protocolos avanzados (como la herencia de prioridades) para asegurar la estabilidad operativa.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

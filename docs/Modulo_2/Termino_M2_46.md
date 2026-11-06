@@ -1,13 +1,9 @@
-# Concepto_46 / Concept_46
+# IPC (Inter-Process Communication) / Inter-Process Communication
+**Definición formal:** 
+Conjunto de mecanismos y métodos provistos por el sistema operativo para permitir que procesos independientes intercambien datos y se comuniquen entre sí.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* crítica para la concurrencia. Permite que múltiples hilos operen en un entorno multiprogramado con alto *rendimiento* y bajo estrictas normas de *seguridad*, evitando colisiones fatales al no compartir directamente el mismo espacio de memoria física.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

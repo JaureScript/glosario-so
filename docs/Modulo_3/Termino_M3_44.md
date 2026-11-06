@@ -1,13 +1,9 @@
-# Concepto_44 / Concept_44
+# PCB (Process Control Block) / Process Control Block (PCB)
+**Definición formal:** 
+Estructura de datos fundamental mantenida por el núcleo del sistema operativo para cada proceso, que almacena toda su información de control (registros, estado, PID, prioridades)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la *abstracción* central del estado del proceso. Permite al *árbitro* del núcleo gestionar el *rendimiento* mediante los cambios de contexto, salvaguardando los registros del *hardware* y aislando los descriptores de *seguridad* de cada aplicación en ejecución[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

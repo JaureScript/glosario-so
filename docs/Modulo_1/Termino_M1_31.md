@@ -6,4 +6,4 @@ Acción en los sistemas de archivos transaccionales (Journaling) donde las opera
 Interviene directamente en la *seguridad* de los datos y la *abstracción de hardware*, garantizando la atomicidad de las operaciones de disco para evitar la corrupción lógica del almacenamiento en caso de fallos de energía inesperados.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

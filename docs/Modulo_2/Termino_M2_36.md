@@ -1,13 +1,9 @@
-# Concepto_36 / Concept_36
+# Inanición / Starvation
+**Definición formal:** 
+Problema de planificación en el que un proceso o hilo se ve indefinidamente privado de los recursos necesarios (como la CPU) debido a que otros procesos de mayor prioridad acaparan el sistema.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Representa un fallo crítico en el *rendimiento* equitativo del sistema; obliga al núcleo a implementar un *árbitro* más robusto, usando técnicas técnicas como el envejecimiento (aging) para garantizar un *control de hardware* justo y sin monopolios.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

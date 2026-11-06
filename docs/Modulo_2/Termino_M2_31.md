@@ -1,13 +1,9 @@
-# Concepto_31 / Concept_31
+# Hilos de Usuario (ULT - User-Level Threads) / User-Level Threads
+**Definición formal:** 
+Hilos gestionados íntegramente mediante bibliotecas en el espacio de usuario, sin intervención directa del núcleo del sistema operativo.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúan como una capa de *abstracción* de concurrencia que ofrece alto *rendimiento* en la creación y conmutación de hilos al evitar los costosos cambios de modo hacia el núcleo, aunque comprometen el control si un hilo bloquea accidentalmente todo el proceso.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

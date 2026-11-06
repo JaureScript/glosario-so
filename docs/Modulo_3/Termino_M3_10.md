@@ -1,13 +1,9 @@
-# Concepto_10 / Concept_10
+# Máquina Extendida / Extended Machine
+**Definición formal:** 
+Concepción del sistema operativo como una máquina virtual abstracta que oculta el hardware complejo y ofrece a los programadores un conjunto de abstracciones y servicios limpios y potentes.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el principio filosófico de la *abstracción* arquitectónica. Define al sistema operativo como el intermediario que proporciona *seguridad*, gestiona el *rendimiento* y simplifica el *control de hardware* para el desarrollo de software de nivel superior.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

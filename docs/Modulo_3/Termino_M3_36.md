@@ -1,13 +1,9 @@
-# Concepto_36 / Concept_36
+# Operación sem_post / sem_post Operation (Signal)
+**Definición formal:** 
+Operación atómica sobre un semáforo (también llamada operación V o signal) que incrementa el valor del semáforo y desbloquea a un hilo en espera si procede[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Facilita la *abstracción* del acceso concurrente y actúa como herramienta del *árbitro*[cite: 4], notificando de forma atómica al planificador que un recurso de *hardware* o sección de memoria ha sido liberado, mejorando así el *rendimiento* de la multiprogramación.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

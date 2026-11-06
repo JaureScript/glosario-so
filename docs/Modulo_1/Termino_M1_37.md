@@ -6,4 +6,4 @@ Propiedad de un sistema donde múltiples cálculos o tareas se ejecutan en perio
 Define la capacidad arquitectónica del sistema para maximizar el *rendimiento* general. Exige que el núcleo opere como un *árbitro* impecable mediante algoritmos de planificación que administren el acceso temporal a la CPU y la RAM de forma estructurada.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

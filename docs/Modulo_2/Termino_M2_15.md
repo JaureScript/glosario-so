@@ -1,13 +1,9 @@
-# Concepto_15 / Concept_15
+# Flatcar Linux / Flatcar Linux
+**Definición formal:** 
+Distribución Linux minimalista, inmutable y orientada a contenedores, diseñada específicamente para clústeres de servidores y entornos de orquestación en la nube[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona niveles críticos de *seguridad*[cite: 4] operativa al implementar un volumen raíz de solo lectura. Evita la modificación no autorizada o accidental de los binarios del núcleo, abstraendo las configuraciones tradicionales hacia una gestión centralizada y determinista.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

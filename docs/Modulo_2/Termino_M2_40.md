@@ -1,13 +1,9 @@
-# Concepto_40 / Concept_40
+# Instrucción Privilegiada / Privileged Instruction
+**Definición formal:** 
+Instrucción de procesador cuya ejecución solo está permitida cuando el sistema se encuentra en modo núcleo (Ring 0), ya que su uso incorrecto podría comprometer la estabilidad y seguridad del sistema.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la frontera física que garantiza la *seguridad* absoluta del *control de hardware*. El procesador bloquea estas instrucciones si provienen del espacio de usuario, obligando a las aplicaciones a solicitar la intermediación del *árbitro* mediante llamadas al sistema.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

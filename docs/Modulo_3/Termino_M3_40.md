@@ -1,13 +1,9 @@
-# Concepto_40 / Concept_40
+# OverlayFS / OverlayFS
+**Definición formal:** 
+Sistema de archivos de unión (union mount) utilizado comúnmente en contenedores y distribuciones inmutables para superponer una capa de escritura modificable sobre una imagen base de solo lectura[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provee una innovadora *abstracción* de almacenamiento que refuerza la *seguridad*[cite: 4], permitiendo que múltiples entornos confinados compartan los mismos bloques de *hardware* (disco) base, sin comprometer la inmutabilidad de la imagen subyacente y optimizando drásticamente el espacio.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

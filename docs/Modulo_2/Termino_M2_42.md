@@ -1,13 +1,9 @@
-# Concepto_42 / Concept_42
+# Interbloqueo (Deadlock) / Deadlock
+**Definición formal:** 
+Situación de bloqueo permanente en la que un conjunto de procesos se encuentra incapacitado para avanzar porque cada uno espera un recurso que está retenido por otro miembro del mismo grupo.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye una falla crítica en la asignación de hardware que degrada a cero el *rendimiento* de los procesos involucrados, requiriendo que el *árbitro* del sistema operativo implemente algoritmos preventivos o mecanismos de terminación forzada para preservar la *seguridad* global.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

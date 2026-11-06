@@ -1,13 +1,9 @@
-# Concepto_7 / Concept_7
+# Estado Listo / Ready State
+**Definición formal:** 
+Estado de un proceso en el cual se encuentra completamente preparado para su ejecución, a la espera únicamente de que el planificador de CPU le asigne un núcleo de procesamiento[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Interviene en el mecanismo de *árbitro*[cite: 4] del sistema; las colas de listos permiten al núcleo aplicar algoritmos de planificación avanzados (como CFS o Round Robin) para distribuir el tiempo de CPU de forma equitativa y determinista.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

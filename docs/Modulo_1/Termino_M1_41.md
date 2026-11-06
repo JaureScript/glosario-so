@@ -6,4 +6,4 @@ Identificador numérico entero abstracto utilizado por los sistemas operativos t
 Proporciona una capa de *abstracción* esencial, permitiendo que las aplicaciones del espacio de usuario interactúen con el hardware subyacente y los flujos de datos de forma estandarizada, sin necesidad de conocer la topología física del almacenamiento o la red.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

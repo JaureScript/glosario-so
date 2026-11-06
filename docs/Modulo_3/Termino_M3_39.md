@@ -1,13 +1,9 @@
-# Concepto_39 / Concept_39
+# Overhead de Virtualización / Virtualization Overhead
+**Definición formal:** 
+Coste adicional en términos de rendimiento de CPU, consumo de memoria y latencia introducido por la capa de virtualización al gestionar máquinas virtuales[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Representa la penalización inevitable del *rendimiento* lograda al imponer una capa de *seguridad* restrictiva y una *abstracción* total (hipervisor) sobre el *control de hardware*[cite: 4], forzando ciclos adicionales de procesador para la emulación y traducción de instrucciones.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

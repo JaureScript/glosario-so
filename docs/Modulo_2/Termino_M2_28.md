@@ -1,13 +1,9 @@
-# Concepto_28 / Concept_28
+# Hipervisor Tipo 2 / Type 2 Hypervisor
+**Definición formal:** 
+Hipervisor alojado (hosted) que se ejecuta como una aplicación convencional sobre un sistema operativo anfitrión ya instalado.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* flexible apoyándose en las capacidades de *control de hardware* del sistema operativo base. Aunque sacrifica *rendimiento* debido a las múltiples capas de traducción, facilita enormemente las pruebas de software y el desarrollo.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

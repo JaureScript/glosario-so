@@ -6,4 +6,4 @@ Característica fundamental de los sistemas operativos de tiempo real (RTOS) que
 Condiciona el *rendimiento* y la *seguridad* en entornos críticos. Obliga al planificador del núcleo a operar con latencias matemáticas verificables, garantizando un *control de hardware* infalible e inmediato ante eventos o interrupciones externas.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

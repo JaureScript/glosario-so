@@ -1,13 +1,9 @@
-# Concepto_13 / Concept_13
+# FIFO (First-In, First-Out) / FIFO
+**Definición formal:** 
+Algoritmo de reemplazo de páginas y política de colas que expulsa o atiende al elemento que lleva más tiempo dentro del sistema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Opera como *árbitro* básico en la gestión de memoria. Toma decisiones rápidas sobre qué bloques de hardware liberar, impactando el *rendimiento*[cite: 4] debido a su susceptibilidad a la Anomalía de Belady al no considerar la frecuencia real de uso de las páginas.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

@@ -1,13 +1,9 @@
-# Concepto_9 / Concept_9
+# LZ4 / LZ4 Compression
+**Definición formal:** 
+Algoritmo de compresión de datos sin pérdida extremadamente rápido, muy utilizado en sistemas operativos y compresión de memoria en tiempo real (zswap).
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Maximiza el *rendimiento* de la memoria virtual y de E/S. Opera como una herramienta de *abstracción* que reduce la latencia de paginación al comprimir bloques en la memoria física en lugar de delegar el lento *control de hardware* al disco de intercambio.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

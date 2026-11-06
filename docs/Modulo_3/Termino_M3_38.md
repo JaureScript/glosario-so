@@ -1,13 +1,9 @@
-# Concepto_38 / Concept_38
+# Orquestación / Orchestration
+**Definición formal:** 
+Automatización a gran escala del despliegue, escalado, redes y gestión de ciclos de vida de contenedores y aplicaciones distribuidas en clústeres de servidores[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Despliega un nivel superior de *abstracción*, operando como un macro-*árbitro* que distribuye cargas de trabajo a través de múltiples nodos de *hardware* físico, maximizando el *rendimiento* y garantizando altos estándares de *seguridad* y disponibilidad frente a caídas de servidores[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

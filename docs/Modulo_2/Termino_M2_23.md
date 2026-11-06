@@ -1,13 +1,9 @@
-# Concepto_23 / Concept_23
+# Hard Real-Time (Tiempo Real Estricto) / Hard Real-Time
+**Definición formal:** 
+Categoría de sistemas operativos de tiempo real donde el incumplimiento de una fecha límite temporal estricta provoca el fallo absoluto y catastrófico de todo el sistema.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Define políticas de *control de hardware* sin compromisos. El planificador y el *árbitro* priorizan el determinismo temporal absoluto sobre el *rendimiento* general, garantizando respuestas exactas en nanosegundos para evitar desastres físicos (ej. aviónica o sistemas médicos).
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

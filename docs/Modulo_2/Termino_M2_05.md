@@ -1,13 +1,9 @@
-# Concepto_5 / Concept_5
+# Estado Bloqueado / Waiting State
+**Definición formal:** 
+Estado de un proceso en el cual se encuentra suspendido e inactivo a la espera de que ocurra un evento externo o se complete una operación de E/S[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Permite al núcleo operar como un *árbitro* eficiente del *rendimiento*[cite: 4]; al suspender procesos bloqueados, libera la unidad de procesamiento (CPU) para despachar inmediatamente otras tareas listas, maximizando la multiprogramación.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

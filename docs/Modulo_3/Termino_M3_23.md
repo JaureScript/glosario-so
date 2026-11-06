@@ -1,13 +1,9 @@
-# Concepto_23 / Concept_23
+# Monitor de Sincronización / Synchronization Monitor
+**Definición formal:** 
+Primitiva de sincronización de alto nivel que encapsula variables compartidas junto con sus procedimientos de acceso seguro, garantizando exclusión mutua implícita[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como *árbitro* a nivel de software. Simplifica la *abstracción*[cite: 4] de la concurrencia, mitigando vulnerabilidades de *seguridad* (como condiciones de carrera) al asegurar que solo un hilo modifique los recursos críticos a la vez.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

@@ -1,13 +1,9 @@
-# Concepto_47 / Concept_47
+# IPC Namespace / IPC Namespace
+**Definición formal:** 
+Espacio de nombres de Linux que aísla los recursos de comunicación entre procesos (como colas de mensajes System V y sockets POSIX) entre contenedores.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce un rol fundamental en la *seguridad* y *abstracción* arquitectónica en entornos virtualizados ligeros, garantizando que procesos confinados en un contenedor no puedan interceptar, saturar o interferir maliciosamente con los flujos de comunicación de otros contenedores.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

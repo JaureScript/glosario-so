@@ -6,4 +6,4 @@ Sistema de archivos virtual de Linux que permite dinamizar la creación y el mon
 Funciona como una capa de *abstracción y seguridad*, permitiendo que los contenedores ejecuten múltiples instancias del sistema operativo móvil de manera simultánea sin interferir en los recursos de comunicación globales del anfitrión.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

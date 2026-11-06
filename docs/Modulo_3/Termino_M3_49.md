@@ -1,13 +1,9 @@
-# Concepto_49 / Concept_49
+# Pipes Anónimos / Anonymous Pipes
+**Definición formal:** 
+Mecanismo unidireccional de comunicación entre procesos (IPC) basado en un búfer en memoria gestionado por el núcleo, típicamente usado entre procesos emparentados[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como una *abstracción* eficiente de E/S. Mejora el *rendimiento* al transferir flujos de datos directamente en la memoria RAM principal sin requerir operaciones lentas de *control de hardware* hacia el disco secundario, preservando el aislamiento de *seguridad* entre procesos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

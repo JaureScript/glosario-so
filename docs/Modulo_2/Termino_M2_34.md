@@ -1,13 +1,9 @@
-# Concepto_34 / Concept_34
+# Imagen de Memoria / Memory Core Dump
+**Definición formal:** 
+Representación estructurada y estática del contenido completo de la memoria virtual asignada a un proceso en un instante determinado.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como un mecanismo de *abstracción* de estado, permitiendo al sistema operativo salvaguardar el contexto exacto de un programa bloqueado para auditorías de *seguridad* o para gestionar el *rendimiento* global mediante la hibernación (swapping) a disco.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

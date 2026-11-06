@@ -1,13 +1,9 @@
-# Concepto_50 / Concept_50
+# KVM (Kernel-based Virtual Machine) / KVM
+**Definición formal:** 
+Infraestructura de virtualización integrada directamente en el núcleo Linux que lo transforma en un hipervisor de tipo 1.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Convierte al sistema operativo base en el *árbitro* absoluto y gestor de *control de hardware* primario para sistemas virtualizados, entregando un nivel de *rendimiento* casi nativo al aprovechar y abstraer de forma directa extensiones de procesador como Intel VT-x.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

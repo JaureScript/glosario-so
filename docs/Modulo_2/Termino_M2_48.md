@@ -1,13 +1,9 @@
-# Concepto_48 / Concept_48
+# Journaling / Journaling
+**Definición formal:** 
+Técnica de los sistemas de archivos que consiste en registrar los cambios pendientes en un registro transaccional (diario) antes de aplicarlos definitivamente, garantizando la recuperación rápida ante fallos de energía o cuelgues.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Maximiza la *seguridad* estructural y la fiabilidad de los datos abstractos frente a interrupciones abruptas del hardware. Evita largos y costosos escaneos lógicos de disco al reiniciar, mejorando radicalmente el *rendimiento* en las secuencias de recuperación post-fallo.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

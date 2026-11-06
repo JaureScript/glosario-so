@@ -1,13 +1,9 @@
-# Concepto_11 / Concept_11
+# Máquina Virtual / Virtual Machine
+**Definición formal:** 
+Emulación basada en software de un sistema informático completo que se ejecuta sobre un hardware físico mediante una capa de virtualización (hipervisor).
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* total del entorno físico. Permite un *control de hardware* indirecto y fortalece la *seguridad* al aislar de forma segura los sistemas operativos invitados, aunque sacrifica una fracción del *rendimiento* nativo debido a las capas de traducción de instrucciones.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

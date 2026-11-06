@@ -1,13 +1,9 @@
-# Concepto_19 / Concept_19
+# MMIO (Memory-Mapped I/O) / Memory-Mapped I/O
+**Definición formal:** 
+Técnica de direccionamiento de E/S donde los registros de control de los dispositivos de hardware se mapean directamente dentro del espacio de direcciones de memoria principal del procesador.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Simplifica significativamente la *abstracción* y el *control de hardware* permitiendo al sistema operativo interactuar con periféricos utilizando convenciones nativas de memoria, lo cual incrementa el *rendimiento* en la transmisión de señales y datos entre la CPU y los dispositivos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

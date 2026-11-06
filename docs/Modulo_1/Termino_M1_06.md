@@ -7,4 +7,4 @@ Repositorio oficial y base de código abierto del sistema operativo móvil Andro
 Define la *arquitectura base y abstracción*[cite: 4] del software sobre el hardware móvil, integrando el núcleo Linux con el framework de aplicaciones de usuario en un entorno seguro.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

@@ -1,13 +1,9 @@
-# Concepto_25 / Concept_25
+# Montaje de Solo Lectura (ro) / Read-Only Mount
+**Definición formal:** 
+Configuración de un sistema de archivos o volumen de almacenamiento que restringe el acceso exclusivamente a operaciones de lectura, prohibiendo cualquier modificación o escritura de datos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce un control estricto de *seguridad*[cite: 4]. Previene la alteración maliciosa o accidental del sistema operativo, garantizando la inmutabilidad de los datos críticos a nivel de *control de hardware* en contenedores y servidores de producción.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

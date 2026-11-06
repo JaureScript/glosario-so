@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Glosario de Sistemas Operativos
+theme:
+  name: material
+  palette:
+    primary: indigo
+nav:
+  - Índice Alfabético: Índice Alfabético (A-Z).md
+  - Módulo 1: 
+    - Índice Módulo 1: Índice Módulo 1.md
+  - Módulo 2: 
+    - Índice Módulo 2: Índice Módulo 2.md
+  - Módulo 3: 
+    - Índice Módulo 3: Índice Módulo 3.md
+  - Referencias: Referencias.md

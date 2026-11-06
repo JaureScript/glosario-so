@@ -1,13 +1,9 @@
-# Concepto_9 / Concept_9
+# Exclusión Mutua / Mutual Exclusion
+**Definición formal:** 
+Propiedad fundamental de la sincronización concurrente que garantiza que solo un hilo o proceso a la vez pueda acceder a una sección crítica o recurso compartido[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como la base algorítmica de la *seguridad* e integridad de datos en el sistema[cite: 4], arbitrando el acceso a estructuras en memoria compartida para impedir resultados indeterminados derivados de condiciones de carrera.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

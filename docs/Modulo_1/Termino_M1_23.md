@@ -6,4 +6,4 @@ Transición controlada entre el modo de ejecución de usuario y el modo núcleo 
 Representa la frontera crítica de *seguridad y protección de hardware*. Garantiza que los procesos de usuario no puedan ejecutar instrucciones privilegiadas por sí mismos, obligándolos a ceder el control al núcleo para arbitrar cualquier modificación del estado del sistema.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

@@ -7,4 +7,4 @@ Módulo de seguridad del núcleo Linux basado en rutas y perfiles de aplicación
 Ejerce el rol estricto de *seguridad*[cite: 4], confinando programas sospechosos y restringiendo sus capacidades para evitar la modificación no autorizada de archivos críticos del sistema.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

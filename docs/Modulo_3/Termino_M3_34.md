@@ -1,13 +1,10 @@
-# Concepto_34 / Concept_34
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
+# Núcleo Híbrido / Hybrid Kernel
+**Definición formal:** 
+Arquitectura de núcleo de sistema operativo que combina características de los núcleos monolíticos y de los micronúcleos con el fin de optimizar el rendimiento y la modularidad (ej. Windows NT)[cite: 3].
 
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Balancea el alto *rendimiento* del *control de hardware* monolítico con la *seguridad* y *abstracción*[cite: 4] de los micronúcleos, logrando aislar ciertos servicios críticos (como controladores de video) mientras ejecuta componentes clave directamente en el espacio de máximo privilegio.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

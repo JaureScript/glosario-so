@@ -7,4 +7,4 @@ Algoritmo de planificación de discos (también conocido como el algoritmo del a
 Actúa como *árbitro* en la gestión de peticiones de E/S, mejorando el *rendimiento*[cite: 4] y reduciendo el tiempo de espera frente a algoritmos básicos como FCFS.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

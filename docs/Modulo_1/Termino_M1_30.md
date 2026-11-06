@@ -6,4 +6,4 @@ Técnica de gestión de memoria utilizada para mitigar la fragmentación externa
 Optimiza el *rendimiento* y la gestión abstracta de los recursos del hardware. Permite al sistema operativo cumplir con solicitudes de asignación de memoria masiva que, de otro modo, fallarían por el agotamiento aparente provocado por los huecos de fragmentación.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

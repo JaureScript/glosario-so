@@ -6,4 +6,4 @@ Modo de funcionamiento de los sistemas de archivos con diario (Journaling) en el
 Mantiene un equilibrio estricto entre el *rendimiento* y la *seguridad*, asegurando que el sistema operativo no vincule metadatos a bloques de datos corruptos o antiguos en el hardware subyacente tras una interrupción abrupta del sistema.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

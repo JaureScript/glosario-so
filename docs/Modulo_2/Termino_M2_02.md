@@ -1,13 +1,9 @@
-# Concepto_2 / Concept_2
+# Espacio de Direcciones Compartido / Shared Address Space
+**Definición formal:** 
+Región de memoria virtual mapeada simultáneamente en las tablas de páginas de múltiples procesos o hilos, permitiendo el intercambio directo y rápido de datos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Optimiza el *rendimiento* global de la comunicación concurrente (IPC)[cite: 4], eliminando la necesidad de que el sistema operativo copie físicamente bloques de datos entre los espacios de memoria de los procesos involucrados.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

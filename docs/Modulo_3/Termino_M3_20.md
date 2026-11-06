@@ -1,13 +1,9 @@
-# Concepto_20 / Concept_20
+# MMU (Memory Management Unit) / Memory Management Unit
+**Definición formal:** 
+Componente de hardware del procesador encargado de traducir las direcciones de memoria virtual generadas por la CPU a direcciones físicas reales.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye la base física de la *abstracción* de memoria virtual. Garantiza la *seguridad* al aislar criptográficamente los espacios de procesos e incrementa el *rendimiento* en tiempo real integrando cachés (TLB) para agilizar las traducciones de hardware en microsegundos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

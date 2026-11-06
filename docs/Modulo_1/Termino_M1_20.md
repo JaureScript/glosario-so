@@ -6,4 +6,4 @@ Sistema de archivos avanzado para Linux enfocado en la tolerancia a fallos, sopo
 Desempeña el rol de *abstracción de hardware y seguridad de datos*, gestionando la distribución física en los discos mientras garantiza la integridad referencial y permite recuperaciones instantáneas del estado del sistema ante corrupciones.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

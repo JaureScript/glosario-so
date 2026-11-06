@@ -1,13 +1,9 @@
-# Concepto_3 / Concept_3
+# Espacio de Direcciones Lógico / Logical Address Space
+**Definición formal:** 
+Rango completo de direcciones de memoria virtuales generadas por la CPU que un proceso puede utilizar durante su ejecución[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provee una potente capa de *abstracción de hardware*[cite: 4], permitiendo que el planificador asigne bloques no contiguos de memoria física a un programa, mientras este percibe que dispone de un bloque de memoria continuo y exclusivo.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

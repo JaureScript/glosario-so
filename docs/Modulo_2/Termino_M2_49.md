@@ -1,13 +1,9 @@
-# Concepto_49 / Concept_49
+# Kernel Monolítico vs Emulado / Monolithic vs Emulated Kernel
+**Definición formal:** 
+Comparativa arquitectónica entre núcleos monolíticos tradicionales (donde todos los servicios operan en el espacio de núcleo) y enfoques basados en emulación o virtualización de servicios.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Define la estrategia fundamental de *abstracción, rendimiento y seguridad* del sistema operativo. Los enfoques monolíticos priorizan la máxima velocidad en el *control de hardware*, mientras que los emulados priorizan el aislamiento estricto y la resiliencia contra fallos generales.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

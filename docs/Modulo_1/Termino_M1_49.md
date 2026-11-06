@@ -6,4 +6,4 @@ Subsistema gráfico del núcleo Linux que gestiona el acceso directo a la unidad
 Ejerce el *control de hardware* crítico sobre el procesamiento visual y funciona como *árbitro* de multiplexación. Asegura que múltiples clientes en el espacio de usuario accedan a la aceleración por GPU con alto *rendimiento*, sin provocar colisiones de estado ni brechas de *seguridad*.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

@@ -1,13 +1,9 @@
-# Concepto_44 / Concept_44
+# Interrupción por Software (Trap) / Trap
+**Definición formal:** 
+Señal síncrona generada intencionalmente por un programa en ejecución (mediante una instrucción especial) para solicitar un servicio del núcleo, como una llamada al sistema.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como la puerta de enlace de *seguridad* hacia el núcleo. Obliga a las aplicaciones de usuario a cruzar de forma controlada y arbitrada hacia el anillo de máxima protección para solicitar acceso legítimo al hardware y a recursos críticos restringidos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

@@ -1,13 +1,9 @@
-# Concepto_3 / Concept_3
+# Libc / libc
+**Definición formal:** 
+Biblioteca estándar del lenguaje C que provee la interfaz de programación fundamental y envuelve las llamadas al sistema (syscalls) para las aplicaciones de usuario.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona la capa principal de *abstracción* e interfaz de *seguridad* entre el espacio de usuario y el núcleo, permitiendo a los procesos solicitar recursos sin interactuar con los complejos registros de *control de hardware* a bajo nivel.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

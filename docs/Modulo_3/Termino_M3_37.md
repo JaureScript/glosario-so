@@ -1,13 +1,9 @@
-# Concepto_37 / Concept_37
+# Operación sem_wait / sem_wait Operation (Wait)
+**Definición formal:** 
+Operación atómica sobre un semáforo (también llamada operación P o wait) que decrementa el valor del semáforo; si el valor es menor que cero, suspende la ejecución del hilo invocador[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Garantiza la *seguridad* estricta en la exclusión mutua; obliga al *árbitro* del núcleo a suspender hilos para evitar condiciones de carrera sobre el *hardware* o los datos compartidos, penalizando levemente el *rendimiento* temporal a cambio de asegurar la integridad absoluta[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

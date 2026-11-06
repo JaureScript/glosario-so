@@ -7,4 +7,4 @@ Estructura de hardware y software encargada de mediar la transferencia de datos 
 Actúa como puente vital para el *control de hardware* y la *abstracción*[cite: 4], permitiendo que el sistema operativo trate diferentes periféricos mediante interfaces estándar de lectura y escritura.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

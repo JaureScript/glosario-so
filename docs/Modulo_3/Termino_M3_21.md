@@ -1,13 +1,9 @@
-# Concepto_21 / Concept_21
+# Modo Kernel / Kernel Mode
+**Definición formal:** 
+Modo de ejecución del procesador con privilegios totales de hardware (Ring 0), permitiendo ejecutar instrucciones privilegiadas y acceder a cualquier recurso del sistema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce el *control de hardware* absoluto y asegura la *seguridad*[cite: 4] del entorno. Funciona como la base arquitectónica donde el *árbitro* (núcleo) gestiona la memoria y procesos sin restricciones, aislando estas operaciones críticas de los procesos regulares.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

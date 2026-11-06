@@ -1,13 +1,9 @@
-# Concepto_1 / Concept_1
+# Latencia Rotacional / Rotational Latency
+**Definición formal:** 
+Tiempo promedio que tarda el sector deseado de un disco magnético tradicional (HDD) en girar y posicionarse bajo el cabezal de lectura/escritura.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Impacta directamente en el *rendimiento* del sistema de E/S. Obliga al *árbitro* (planificador de discos) a implementar algoritmos de *control de hardware* como SSTF o SCAN para minimizar los retardos mecánicos al acceder a la información física.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

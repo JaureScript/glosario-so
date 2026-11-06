@@ -1,13 +1,9 @@
-# Concepto_22 / Concept_22
+# GRUB2 (Grand Unified Bootloader) / GRUB2
+**Definición formal:** 
+Cargador de arranque modular avanzado y altamente configurable utilizado por la gran mayoría de distribuciones Linux modernas para iniciar múltiples sistemas operativos.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Sirve como la capa de *abstracción* transicional entre el firmware de la placa base (BIOS/UEFI) y el núcleo. Ejerce *control de hardware* inicial para cargar el kernel en la memoria física y montarle un sistema de archivos temporal seguro.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

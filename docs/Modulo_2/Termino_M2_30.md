@@ -1,13 +1,9 @@
-# Concepto_30 / Concept_30
+# Hilos de Kernel (KLT - Kernel-Level Threads) / Kernel-Level Threads
+**Definición formal:** 
+Hilos gestionados y planificados directamente por el núcleo del sistema operativo a nivel de sistema.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Otorga al planificador un *control de hardware* absoluto sobre la ejecución. A diferencia de los hilos de usuario, si un KLT se bloquea por una operación de E/S, el *árbitro* puede despachar otro hilo del mismo proceso, manteniendo un alto *rendimiento*.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

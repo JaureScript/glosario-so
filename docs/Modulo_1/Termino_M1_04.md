@@ -7,4 +7,4 @@ Fenómeno contraintuitivo que ocurre en ciertos algoritmos de reemplazo de pági
 Es una condición que afecta negativamente el *rendimiento*[cite: 4] en la gestión de memoria; su estudio es clave para que el SO implemente mejores políticas de reemplazo, como LRU.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

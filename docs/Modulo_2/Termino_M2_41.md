@@ -1,13 +1,9 @@
-# Concepto_41 / Concept_41
+# Intel VT-x (Intel Virtualization Technology) / Intel VT-x
+**Definición formal:** 
+Conjunto de extensiones de hardware incorporadas en los procesadores Intel que facilitan la virtualización nativa de plataformas.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Optimiza el *rendimiento* y el *control de hardware* en entornos de hipervisores, permitiendo ejecutar máquinas virtuales directamente sobre las instrucciones del procesador sin incurrir en la pesada sobrecarga computacional de la emulación de software.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

@@ -1,13 +1,9 @@
-# Concepto_18 / Concept_18
+# MLFQ (Multilevel Feedback Queue) / Multilevel Feedback Queue
+**Definición formal:** 
+Algoritmo avanzado de planificación de CPU que utiliza múltiples colas con diferentes prioridades, permitiendo que los procesos migren entre ellas dinámicamente según su comportamiento de uso de CPU.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como un *árbitro* inteligente que optimiza dinámicamente el *rendimiento* global del sistema operativo. Categoriza procesos y ajusta el *control de hardware* en tiempo real, favoreciendo la interactividad sin permitir que tareas pesadas acaparen el procesador.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 3]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

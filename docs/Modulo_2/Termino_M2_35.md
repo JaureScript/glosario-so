@@ -1,13 +1,9 @@
-# Concepto_35 / Concept_35
+# Imagen OCI (Open Container Initiative) / OCI Image
+**Definición formal:** 
+Estándar abierto y estandarizado para el empaquetamiento y distribución de imágenes de contenedores de software.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Estandariza la *abstracción* de los entornos de usuario, asegurando que las aplicaciones empaquetadas sean interpretadas y ejecutadas por el *árbitro* del motor de contenedores con *seguridad* determinista y portabilidad absoluta entre diferentes núcleos anfitriones.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 2]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)
