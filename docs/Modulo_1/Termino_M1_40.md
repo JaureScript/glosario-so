@@ -1,0 +1,9 @@
+# Data Ordered Mode / Data Ordered Mode
+**Definición formal:** 
+Modo de funcionamiento de los sistemas de archivos con diario (Journaling) en el que los datos reales de los archivos se escriben en el disco antes de que los metadatos correspondientes se confirmen en el diario[cite: 3].
+
+**Rol Operativo / Utilidad:** 
+Mantiene un equilibrio estricto entre el *rendimiento* y la *seguridad*, asegurando que el sistema operativo no vincule metadatos a bloques de datos corruptos o antiguos en el hardware subyacente tras una interrupción abrupta del sistema.
+
+---
+**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]

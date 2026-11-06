@@ -1,0 +1,9 @@
+# binderfs / binderfs
+**Definición formal:** 
+Sistema de archivos virtual de Linux que permite dinamizar la creación y el montaje de instancias del subsistema Binder IPC de forma aislada[cite: 3].
+
+**Rol Operativo / Utilidad:** 
+Funciona como una capa de *abstracción y seguridad*, permitiendo que los contenedores ejecuten múltiples instancias del sistema operativo móvil de manera simultánea sin interferir en los recursos de comunicación globales del anfitrión.
+
+---
+**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]

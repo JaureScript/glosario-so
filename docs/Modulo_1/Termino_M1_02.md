@@ -1,0 +1,10 @@
+# ALSA (Advanced Linux Sound Architecture) / ALSA
+
+**Definición formal:** 
+Subsistema del núcleo Linux encargado de gestionar las tarjetas de sonido y proveer controladores de audio de bajo nivel para las aplicaciones[cite: 3].
+
+**Rol Operativo / Utilidad:** 
+Proporciona *control de hardware* y *abstracción*[cite: 4], permitiendo a los programas interactuar unificadamente con los diferentes dispositivos de audio físicos sin conocer su estructura interna.
+
+---
+**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]

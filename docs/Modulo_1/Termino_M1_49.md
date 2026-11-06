@@ -1,0 +1,9 @@
+# DRM/KMS (Direct Rendering Manager / Kernel Mode Setting) / DRM and KMS
+**Definición formal:** 
+Subsistema gráfico del núcleo Linux que gestiona el acceso directo a la unidad de procesamiento gráfico (GPU) y permite configurar los modos de visualización de pantalla a nivel de núcleo[cite: 3].
+
+**Rol Operativo / Utilidad:** 
+Ejerce el *control de hardware* crítico sobre el procesamiento visual y funciona como *árbitro* de multiplexación. Asegura que múltiples clientes en el espacio de usuario accedan a la aceleración por GPU con alto *rendimiento*, sin provocar colisiones de estado ni brechas de *seguridad*.
+
+---
+**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]

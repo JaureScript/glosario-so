@@ -1,0 +1,9 @@
+# Chroot Jail / Chroot Jail
+**Definición formal:** 
+Operación de aislamiento de un proceso y sus hijos que cambia el directorio raíz aparente del sistema de ficheros a una ruta específica, restringiendo el acceso al resto del sistema operativo[cite: 3].
+
+**Rol Operativo / Utilidad:** 
+Aplica un control estricto de *seguridad* a través de la *abstracción* del sistema de archivos. Confina la visibilidad de los procesos potencialmente vulnerables, mitigando el riesgo de que una intrusión comprometa la jerarquía de directorios crítica del anfitrión.
+
+---
+**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 1]]
