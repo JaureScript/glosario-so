@@ -1,13 +1,9 @@
-# Concepto_12 / Concept_12
+# W^X (Write XOR Execute) / W^X
+**Definición formal:** 
+Característica de seguridad en la gestión de memoria que garantiza que cada página virtual del sistema pueda ser modificable (escritura) o ejecutable, pero nunca ambas cosas simultáneamente[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce una *abstracción* de *seguridad* impenetrable a nivel de *control de hardware* en la MMU, bloqueando ataques de inyección de código al asegurar que el *árbitro* impida la ejecución de datos introducidos de forma maliciosa en áreas de memoria RAM volátil[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

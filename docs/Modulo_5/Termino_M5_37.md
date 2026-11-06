@@ -1,13 +1,9 @@
-# Concepto_37 / Concept_37
+# Demonio (Daemon) / Daemon
+**Definición formal:** 
+Programa informático o proceso de fondo en sistemas UNIX/Linux que se ejecuta de manera continua y no interactiva para proveer servicios esenciales del sistema o responder a eventos del equipo y la red[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Soporta la *abstracción* de los servicios del sistema operativo. El *árbitro* los inicializa durante el arranque bajo políticas de *seguridad* estrictas, delegándoles el *control de hardware* especializado (como impresoras o red) sin penalizar el *rendimiento* de la interfaz de usuario[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

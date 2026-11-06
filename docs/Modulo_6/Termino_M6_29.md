@@ -1,13 +1,9 @@
-# Concepto_29 / Concept_29
+# Sockets de Red / Network Sockets
+**Definición formal:** 
+Punto final abstracto bidireccional en un enlace de comunicación entre dos programas a través de una red, operando bajo las interfaces de programación estandarizadas POSIX[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proveen la *abstracción* suprema de IPC distribuido. El *árbitro* los gestiona como descriptores de archivo para simplificar el *control de hardware* de las tarjetas de red, balanceando el *rendimiento* de los búferes y garantizando la *seguridad* a nivel de puertos y protocolos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

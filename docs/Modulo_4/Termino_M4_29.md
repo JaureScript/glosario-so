@@ -1,13 +1,9 @@
-# Concepto_29 / Concept_29
+# Segmentación Paginada / Paged Segmentation
+**Definición formal:** 
+Esquema híbrido de gestión de memoria que combina la segmentación y la paginación, dividiendo los segmentos lógicos en páginas físicas para eliminar la fragmentación externa[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Combina la *abstracción* semántica y *seguridad* de la segmentación con el alto *rendimiento* y eficiente *control de hardware* de la paginación. El *árbitro* gestiona tablas duales, eliminando tanto la fragmentación externa como las vulnerabilidades de acceso[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

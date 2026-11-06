@@ -1,13 +1,9 @@
-# Concepto_11 / Concept_11
+# Tiempo de Respuesta / Response Time
+**Definición formal:** 
+Intervalo de tiempo transcurrido desde que se envía una solicitud inicial al sistema hasta que se produce la primera respuesta visible en la interfaz o consola[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Métrica clave para el *árbitro* en sistemas de tiempo compartido, donde el *control de hardware* debe priorizar la interactividad, mejorando la *abstracción* de fluidez para el usuario sin comprometer la *seguridad* ni el *rendimiento* global de los procesos en segundo plano[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

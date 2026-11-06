@@ -1,13 +1,9 @@
-# Concepto_6 / Concept_6
+# Tabla de Páginas / Page Table
+**Definición formal:** 
+Estructura de datos en árbol mantenida por el sistema operativo en la memoria principal, utilizada para mapear las direcciones lógicas virtuales de un proceso a los marcos físicos de la memoria RAM[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el componente central para la *abstracción* de memoria virtual y la *seguridad* por aislamiento de espacios. El *árbitro* actualiza dinámicamente esta tabla para que la MMU ejerza el *control de hardware* traduciendo direcciones en tiempo real con máximo *rendimiento*[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

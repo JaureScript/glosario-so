@@ -1,13 +1,9 @@
-# Concepto_48 / Concept_48
+# Reclamación de Zonas / Zone Reclamation
+**Definición formal:** 
+Mecanismo del gestor de memoria, crítico en arquitecturas NUMA, que fuerza la recuperación de páginas limpias (caché de disco) dentro de un nodo local antes de solicitar asignación de RAM a nodos remotos.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Maximiza el *rendimiento* del procesador respetando la topología física del *control de hardware*. El *árbitro* destruye temporalmente la *abstracción* de la caché para mantener la *seguridad* temporal y la latencia baja en la ejecución de hilos hiper-locales.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

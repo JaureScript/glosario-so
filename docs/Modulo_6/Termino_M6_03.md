@@ -1,13 +1,9 @@
-# Concepto_3 / Concept_3
+# Variable de Condición (Condition Variable) / Condition Variable
+**Definición formal:** 
+Primitiva de sincronización que permite a los hilos suspender su ejecución y liberar el bloqueo de un mutex hasta que una condición específica compartida cambie de estado[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Optimiza el *rendimiento* concurrente evitando la espera activa. El *árbitro* retira el *control de hardware* (CPU) al hilo bloqueado, manteniéndolo en espera con total *seguridad* hasta que se notifique el cambio de estado en la *abstracción* de memoria compartida[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

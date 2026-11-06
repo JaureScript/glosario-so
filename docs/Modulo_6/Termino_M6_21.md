@@ -1,13 +1,9 @@
-# Concepto_21 / Concept_21
+# Controlador de Interrupciones / Interrupt Controller
+**Definición formal:** 
+Chip de hardware integrado en la placa base que recibe señales de los periféricos, las prioriza y las envía al procesador para solicitar su atención inmediata[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el mecanismo central de *control de hardware* asíncrono. El *árbitro* depende de él para mantener la *abstracción* multitarea, garantizando la *seguridad* al pausar hilos en ejecución y maximizar el *rendimiento* evitando bloqueos de consulta continua (polling)[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

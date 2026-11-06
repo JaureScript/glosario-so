@@ -1,13 +1,9 @@
-# Concepto_47 / Concept_47
+# Zpool / Zpool
+**Definición formal:** 
+Capa superior de jerarquía en el sistema de archivos ZFS que agrupa y federa múltiples dispositivos de almacenamiento físico en un único bloque de almacenamiento lógico, flexible y elástico.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Consolida la *abstracción* total de volumen lógico. El *árbitro* independiza el *control de hardware* individual de los discos subyacentes, disparando el *rendimiento* distribuido y blindando la *seguridad* de los datos con redundancia estructural (RAID-Z).
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

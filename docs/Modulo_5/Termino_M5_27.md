@@ -1,13 +1,7 @@
-# Concepto_27 / Concept_27
+# x86_64 (AMD64) / x86_64 Architecture
+**Definición formal:** Extensión de 64 bits del conjunto de instrucciones x86 original, que amplía masivamente los registros de propósito general y el espacio de direccionamiento de memoria física y virtual[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** Representa la base física para el *control de hardware* moderno. Obliga al *árbitro* del SO a gestionar tablas de páginas de cuatro o cinco niveles, garantizando la *abstracción* requerida para aplicaciones de alto *rendimiento* que consumen terabytes de memoria RAM de forma segura[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

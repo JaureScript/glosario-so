@@ -1,13 +1,9 @@
-# Concepto_50 / Concept_50
+# Watchdog Timer / Perro Guardián
+**Definición formal:** 
+Temporizador de hardware integrado en la placa base que desencadena automáticamente un reinicio forzado a nivel eléctrico si el núcleo del sistema operativo se bloquea o deja de enviar periódicamente la señal de "latido" (keep-alive)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye la última línea de *seguridad* física en servidores de misión crítica. Si el *árbitro* del software colapsa (ej. deadlock total en el espacio del núcleo), el *control de hardware* autónomo asume el mando, forzando un reseteo para recuperar el *rendimiento* y la disponibilidad del nodo[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

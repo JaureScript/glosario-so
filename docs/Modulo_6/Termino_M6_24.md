@@ -1,13 +1,9 @@
-# Concepto_24 / Concept_24
+# RTC (Real-Time Clock) / Real-Time Clock
+**Definición formal:** 
+Reloj de hardware alimentado por batería integrado en la placa base de una computadora, encargado de mantener un seguimiento continuo de la fecha y hora actual incluso cuando el sistema está apagado[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Facilita la *abstracción* temporal base. El *árbitro* extrae este valor en el arranque para sincronizar el estado lógico del software con el mundo físico, impactando la *seguridad* de los registros de auditoría y eventos sin consumir *rendimiento* de la CPU[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

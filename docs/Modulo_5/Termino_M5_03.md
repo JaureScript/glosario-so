@@ -1,13 +1,9 @@
-# Concepto_3 / Concept_3
+# Swapping (Intercambio)
+**Definición formal:** 
+Mecanismo de gestión de memoria que traslada de manera transparente procesos enteros o páginas de memoria entre la memoria RAM física principal y el almacenamiento secundario (disco de intercambio)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la herramienta de *control de hardware* de último recurso del *árbitro* para mantener la estabilidad. Preserva el *rendimiento* y la *seguridad* operativa evitando el colapso por falta de memoria, materializando la potente *abstracción* de una memoria virtual aparentemente ilimitada[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

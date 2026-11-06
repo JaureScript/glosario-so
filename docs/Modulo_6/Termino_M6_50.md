@@ -1,13 +1,9 @@
-# Concepto_50 / Concept_50
+# Barrera de Escritura / Write Barrier
+**Definición formal:** 
+Directiva a nivel de sistema de archivos que prohíbe explícitamente al controlador del disco y a sus cachés reordenar operaciones de escritura de bloques físicos a través de dicho límite temporal.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Garantiza la *seguridad* transaccional forzando un *control de hardware* estricto y ordenado. El *árbitro* sacrifica una fracción mínima de *rendimiento* en E/S para sostener la *abstracción* de persistencia atómica ante fallas eléctricas repentinas.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

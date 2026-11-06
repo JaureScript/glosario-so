@@ -1,13 +1,9 @@
-# Concepto_39 / Concept_39
+# Caché Adaptativa de Reemplazo (ARC) / Adaptive Replacement Cache (ARC)
+**Definición formal:** 
+Algoritmo avanzado de reemplazo de páginas empleado en ZFS que equilibra dinámicamente las páginas "usadas recientemente" con las "usadas frecuentemente" para optimizar la retención de datos en memoria.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Supera las limitaciones de *abstracción* del algoritmo LRU tradicional. El *árbitro* predice con máxima precisión los patrones de E/S, disparando el *rendimiento* del *control de hardware* de lectura y blindando la *seguridad* operativa contra escaneos secuenciales masivos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

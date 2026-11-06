@@ -1,13 +1,9 @@
-# Concepto_42 / Concept_42
+# Vnodo (Nodo Virtual) / Vnode
+**Definición formal:** 
+Estructura de datos abstracta utilizada por el VFS (Virtual File System) para representar un archivo o directorio genérico, independientemente del sistema de archivos físico subyacente.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provee la máxima *abstracción* de almacenamiento. El *árbitro* intercepta estas estructuras y las redirige hacia el *control de hardware* específico del disco, unificando la *seguridad* (permisos globales) y el *rendimiento* sobre redes y discos de naturalezas dispares.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

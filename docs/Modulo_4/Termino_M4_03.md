@@ -1,13 +1,9 @@
-# Concepto_3 / Concept_3
+# Paginación / Paging
+**Definición formal:** 
+Técnica de gestión de memoria virtual que divide la memoria física en marcos de igual tamaño y la memoria virtual en páginas del mismo tamaño, permitiendo un mapeo flexible sin fragmentación externa[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye la *abstracción* fundamental de memoria en sistemas modernos. El *árbitro* la utiliza para maximizar el *rendimiento* de asignación y garantizar el aislamiento de *seguridad* entre procesos a nivel de *control de hardware*[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

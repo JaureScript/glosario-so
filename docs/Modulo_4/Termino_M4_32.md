@@ -1,13 +1,9 @@
-# Concepto_32 / Concept_32
+# Seccomp (Secure Computing Mode) / Seccomp
+**Definición formal:** 
+Característica de seguridad del núcleo Linux que permite filtrar y restringir las llamadas al sistema (syscalls) que un proceso puede realizar, limitando la superficie de ataque[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce un rol crítico de *seguridad* y *abstracción* al reducir la interfaz expuesta del núcleo. El *árbitro* bloquea el *control de hardware* innecesario para los procesos aislados, protegiendo el sistema de escaladas de privilegios sin afectar el *rendimiento* general[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

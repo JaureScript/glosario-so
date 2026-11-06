@@ -1,13 +1,7 @@
-# Concepto_26 / Concept_26
+# XWayland
+**Definición formal:** Capa de compatibilidad de software que se ejecuta como un servidor X independiente dentro de una sesión Wayland, permitiendo ejecutar aplicaciones nativas de X11 sin modificaciones[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** Actúa como una *abstracción* transicional vital. El *árbitro* gráfico permite mantener el *rendimiento* de las aplicaciones heredadas, confinándolas dentro de un marco de *seguridad* moderno donde el *control de hardware* definitivo recae estrictamente sobre el compositor Wayland principal[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

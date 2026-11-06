@@ -1,13 +1,9 @@
-# Concepto_41 / Concept_41
+# Página Cero / Zero Page
+**Definición formal:** 
+Página de memoria física pre-inicializada con ceros por el sistema operativo antes de ser reasignada a un nuevo proceso de usuario.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Representa una medida crítica de *seguridad* y *abstracción*. El *árbitro* limpia el *control de hardware* residual evitando fugas de información entre procesos distintos, al tiempo que mejora el *rendimiento* manteniendo un grupo (pool) de páginas limpias listas para asignación inmediata.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

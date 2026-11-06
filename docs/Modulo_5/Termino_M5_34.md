@@ -1,13 +1,9 @@
-# Concepto_34 / Concept_34
+# Afinidad de CPU (CPU Affinity) / CPU Affinity
+**Definición formal:** 
+Propiedad de planificación que permite vincular de manera estricta o preferencial la ejecución de un proceso o hilo a un núcleo o conjunto de núcleos físicos específicos dentro del procesador multi-núcleo[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Maximiza el *rendimiento* reduciendo drásticamente los fallos de caché TLB y L1/L2. El *árbitro* ejerce un *control de hardware* explícito, rompiendo la *abstracción* de multiprocesamiento simétrico para mantener la *seguridad* y eficiencia de tareas altamente críticas e intensivas[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

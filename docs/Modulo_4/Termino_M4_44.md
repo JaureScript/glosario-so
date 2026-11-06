@@ -1,13 +1,9 @@
-# Concepto_44 / Concept_44
+# SJF  / Shortest Job First
+**Definición formal:** 
+Algoritmo de planificación de CPU que selecciona para su ejecución al proceso que requiera el tiempo de ráfaga de CPU más corto[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como una política de *árbitro* orientada a optimizar radicalmente el *rendimiento* métrico del sistema (tiempo medio de espera). Su implementación pura es una *abstracción* teórica, ya que el sistema operativo no puede predecir con total *seguridad* el tiempo exacto de las futuras instrucciones de *hardware*[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

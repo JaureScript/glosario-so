@@ -1,13 +1,9 @@
-# Concepto_26 / Concept_26
+# FCB (File Control Block) / File Control Block
+**Definición formal:** 
+Estructura de datos histórica que mantenía el sistema operativo, o la propia aplicación en sistemas primitivos, para rastrear el estado, los metadatos y la posición actual de un archivo abierto[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Fue la *abstracción* precursora del descriptor de archivo. El *árbitro* lo utilizaba para gestionar el *control de hardware* del almacenamiento, optimizando el *rendimiento* de lectura secuencial, aunque presentaba serias debilidades de *seguridad* al residir comúnmente en el espacio de usuario[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

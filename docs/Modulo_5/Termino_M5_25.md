@@ -1,13 +1,7 @@
-# Concepto_25 / Concept_25
+# Windows NT / Windows NT Architecture
+**Definición formal:** Arquitectura subyacente de la familia de sistemas operativos modernos de Microsoft, caracterizada por su núcleo híbrido, diseño orientado a objetos y soporte nativo para multiprocesamiento simétrico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** Combina el *rendimiento* de un monolítico con la *abstracción* de un micronúcleo. El *árbitro* (NT Executive) delega el *control de hardware* a subsistemas especializados, implementando estrictas listas de control de acceso (ACLs) para garantizar la *seguridad* en el espacio de usuario[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

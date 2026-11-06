@@ -1,13 +1,9 @@
-# Concepto_37 / Concept_37
+# Semáforo Contador (sem_t) / Counting Semaphore
+**Definición formal:** 
+Primitiva de sincronización cuyo valor entero puede incrementarse o decrementarse para gestionar el acceso concurrente a un recurso limitado con múltiples instancias disponibles[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es fundamental para la *abstracción* de recursos finitos (ej. un pool de conexiones o impresoras). El *árbitro* asegura el *rendimiento* ordenando los accesos y manteniendo la *seguridad* al bloquear hilos cuando el límite del *control de hardware* subyacente se alcanza[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

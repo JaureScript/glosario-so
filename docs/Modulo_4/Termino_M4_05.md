@@ -1,13 +1,9 @@
-# Concepto_5 / Concept_5
+# Parach (ApacheBench / ab) / ApacheBench (ab)
+**Definición formal:** 
+Herramienta de benchmarking clásica diseñada para medir el rendimiento de servidores web HTTP mediante la simulación de múltiples peticiones concurrentes[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Se emplea para someter a prueba de estrés el *rendimiento* del planificador y la pila de red del sistema operativo. Evalúa cómo el *árbitro* maneja el *control de hardware* bajo ráfagas intensivas de peticiones concurrentes[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

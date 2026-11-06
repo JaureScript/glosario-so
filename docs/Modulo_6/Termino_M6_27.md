@@ -1,13 +1,9 @@
-# Concepto_27 / Concept_27
+# Token de Acceso / Access Token
+**Definición formal:** 
+Objeto del núcleo generado durante la autenticación de un usuario, que encapsula su identidad, grupos de pertenencia y privilegios explícitos en el sistema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la *abstracción* criptográfica de identidad. El *árbitro* de *seguridad* lo compara dinámicamente con las ACLs de los objetos antes de permitir el *control de hardware* (como abrir un archivo), asegurando la protección sin degradar el *rendimiento* con re-autenticaciones constantes[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

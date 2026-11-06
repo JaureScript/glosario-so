@@ -1,13 +1,9 @@
-# Concepto_15 / Concept_15
+# Tuberías Nombradas (FIFOs) / Named Pipes
+**Definición formal:** 
+Extensión de las tuberías estándar que persisten en el sistema de archivos como nodos especiales, permitiendo la comunicación bidireccional entre procesos que no poseen relación de parentesco directa[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Amplía la *abstracción* de IPC asociándola al árbol de directorios para facilitar la interacción. El *árbitro* gestiona su acceso imponiendo permisos de *seguridad* (rwx) y sincronizando el *rendimiento* de lectura y escritura sin comprometer directamente el *control de hardware* de disco[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

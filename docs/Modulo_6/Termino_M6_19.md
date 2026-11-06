@@ -1,13 +1,9 @@
-# Concepto_19 / Concept_19
+# Gestor de Memoria Virtual (VMM) / Virtual Memory Manager
+**Definición formal:** 
+Subsistema crítico del núcleo encargado de administrar el espacio de direcciones virtuales, el mapeo dinámico hacia la memoria física y el intercambio (swapping) de páginas en el almacenamiento secundario[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el *árbitro* central del *rendimiento* de la memoria RAM. Asegura la *seguridad* aislando cada proceso dentro de su propia *abstracción* de direcciones, y comanda a la MMU para aplicar el *control de hardware* estricto en las traducciones[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

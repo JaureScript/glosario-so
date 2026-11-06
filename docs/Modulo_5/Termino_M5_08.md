@@ -1,13 +1,9 @@
-# Concepto_8 / Concept_8
+# Task Control Block (TCB) / Task Control Block
+**Definición formal:** 
+Estructura de datos análoga al PCB, utilizada específicamente en sistemas de tiempo real (RTOS) y arquitecturas multihilo ligeras para almacenar el estado y contexto exclusivo de una tarea individual[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Soporta el *rendimiento* extremo del procesamiento concurrente. Facilita que el *árbitro* realice cambios de contexto en nanosegundos, preservando el *control de hardware* y la *seguridad* de los registros de la CPU para cada hilo sin la enorme sobrecarga de cambiar un proceso completo[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

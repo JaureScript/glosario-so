@@ -1,13 +1,9 @@
-# Concepto_25 / Concept_25
+# Interrupción de Reloj / Clock Interrupt
+**Definición formal:** 
+Señal periódica generada por el temporizador de hardware (como el APIC) que interrumpe a la CPU a intervalos fijos para invocar al planificador del sistema operativo[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el latido vital del *control de hardware* expropiativo. Permite al *árbitro* recuperar la CPU de procesos bloqueados, garantizando la *abstracción* de concurrencia y un *rendimiento* equitativo bajo estrictas normas de *seguridad* anti-inanición[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

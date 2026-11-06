@@ -1,13 +1,9 @@
-# Concepto_36 / Concept_36
+# Caché de Página / Page Cache
+**Definición formal:** 
+Región de la memoria principal (RAM) transparente al usuario utilizada por el núcleo del sistema operativo para almacenar temporalmente bloques de datos recientemente leídos o escritos desde el almacenamiento secundario[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Mejora radicalmente el *rendimiento* general de E/S. El *árbitro* intercepta las solicitudes de *control de hardware* al disco físico, sirviendo la información desde esta *abstracción* volátil para minimizar los retrasos mecánicos, manteniendo la *seguridad* mediante sincronizaciones periódicas (flushing)[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

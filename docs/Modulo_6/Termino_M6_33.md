@@ -1,13 +1,9 @@
-# Concepto_33 / Concept_33
+# Caché de Escritura Directa / Write-Through Cache
+**Definición formal:** 
+Política de almacenamiento en caché donde cualquier modificación de los datos se escribe de forma simultánea y estrictamente síncrona tanto en la memoria caché como en el dispositivo de almacenamiento subyacente.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Garantiza la *seguridad* y coherencia absoluta de los datos en tiempo real. Aunque esta *abstracción* penaliza el *rendimiento* de escritura, asegura que el *control de hardware* del almacenamiento mantenga un estado idéntico e infalible respecto a la memoria volátil.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

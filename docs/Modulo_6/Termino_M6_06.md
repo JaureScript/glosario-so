@@ -1,13 +1,9 @@
-# Concepto_6 / Concept_6
+# APIC / Advanced Programmable Interrupt Controller
+**Definición formal:** 
+Controlador de interrupciones avanzado utilizado en arquitecturas multiprocesador simétricas (SMP) para distribuir, enrutar y gestionar de forma eficiente las señales de hardware hacia múltiples núcleos de CPU[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Desempeña el rol de *árbitro* físico integrado en la placa base. Facilita el *control de hardware* paralelo y maximiza el *rendimiento* del sistema operativo al enrutar dinámicamente las señales de *seguridad* hacia el núcleo que se encuentre menos congestionado[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

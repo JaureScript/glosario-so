@@ -1,13 +1,7 @@
-# Concepto_21 / Concept_21
+# VMM (Virtual Machine Monitor) / Virtual Machine Monitor
+**Definición formal:** Software o firmware especializado (también conocido como hipervisor) responsable de crear, gestionar y ejecutar múltiples máquinas virtuales sobre un único equipo físico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** Ejerce el *control de hardware* supremo y actúa como *árbitro* principal en entornos virtualizados. Aísla las cargas de trabajo con barreras de *seguridad* inquebrantables, ofreciendo una *abstracción* completa que maximiza el *rendimiento* global de los servidores físicos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

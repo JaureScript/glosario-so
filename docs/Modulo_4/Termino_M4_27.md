@@ -1,13 +1,9 @@
-# Concepto_27 / Concept_27
+# Rutina de Fallo de Página / Page Fault Handler
+**Definición formal:** 
+Código del núcleo del sistema operativo que maneja la interrupción provocada por un fallo de página, localizando el bloque en almacenamiento secundario y cargándolo en la memoria física[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Mantiene la ilusión de la *abstracción* de memoria virtual continua. El núcleo, como *árbitro*, detiene el proceso, ejerce *control de hardware* sobre el disco de intercambio y actualiza las tablas con un impacto temporal en el *rendimiento* que preserva la *seguridad* de ejecución[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

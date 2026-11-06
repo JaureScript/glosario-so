@@ -1,13 +1,9 @@
-# Concepto_16 / Concept_16
+# UMA (Uniform Memory Access) / UMA
+**Definición formal:** 
+Arquitectura de memoria compartida en sistemas multiprocesador donde el tiempo de acceso a cualquier ubicación de la memoria principal es idéntico para todos los núcleos de CPU[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Simplifica enormemente el *control de hardware* para el planificador. Permite al *árbitro* despachar y migrar hilos a cualquier núcleo manteniendo un *rendimiento* predecible y uniforme, facilitando la *abstracción* de un gran bloque de RAM con *seguridad* simétrica[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

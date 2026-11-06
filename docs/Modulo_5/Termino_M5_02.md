@@ -1,13 +1,9 @@
-# Concepto_2 / Concept_2
+# Superbloque / Superblock
+**Definición formal:** 
+Estructura de metadatos fundamental en los sistemas de archivos tipo UNIX que almacena la información global sobre el tamaño, estado, geometría y configuración del volumen lógico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona la *abstracción* primaria del almacenamiento físico; el *árbitro* del núcleo lo lee obligatoriamente durante el montaje para inicializar el *control de hardware* del disco y validar la *seguridad* y consistencia estructural de los datos antes de operar[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

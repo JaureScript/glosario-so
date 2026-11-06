@@ -1,13 +1,9 @@
-# Concepto_2 / Concept_2
+# pmap
+**Definición formal:** 
+Utilidad de línea de comandos en sistemas UNIX utilizada para inspeccionar el mapa de memoria virtual de un proceso en ejecución[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como herramienta de diagnóstico y *seguridad* para el administrador. Permite auditar la *abstracción* de las asignaciones de *hardware* del núcleo, identificando cuellos de botella de *rendimiento* como las fugas de memoria (memory leaks)[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

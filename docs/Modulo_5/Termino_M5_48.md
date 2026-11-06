@@ -1,13 +1,9 @@
-# Concepto_48 / Concept_48
+# Slab Allocator (Asignador Slab) / Slab Allocator
+**Definición formal:** 
+Mecanismo de gestión de memoria interna del núcleo diseñado para preasignar, almacenar y reutilizar cachés de objetos de tamaño fijo (como inodos o PCBs), eliminando las ineficiencias de inicialización constante[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Optimiza el *rendimiento* interno y el *control de hardware* del propio sistema operativo. El *árbitro* utiliza esta *abstracción* para erradicar la fragmentación interna, manteniendo la *seguridad* operativa al evitar agotar la RAM durante ráfagas masivas de creación de procesos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

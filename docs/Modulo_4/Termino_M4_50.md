@@ -1,13 +1,9 @@
-# Concepto_50 / Concept_50
+# SRTF (Shortest Remaining Time First) / Shortest Remaining Time First
+**Definición formal:** 
+Versión expropiativa del algoritmo SJF, donde el planificador desbanca al proceso en ejecución si llega un nuevo proceso con un tiempo de CPU restante menor[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como una política expropiativa donde el *árbitro* fuerza la interrupción del *control de hardware* para favorecer tareas más cortas. Optimiza al límite el *rendimiento* (tiempo medio de espera), aunque genera riesgos de *seguridad* (inanición) para procesos con ráfagas computacionales muy largas[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

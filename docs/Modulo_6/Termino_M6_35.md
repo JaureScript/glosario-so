@@ -1,13 +1,9 @@
-# Concepto_35 / Concept_35
+# Mach IPC / Mach IPC
+**Definición formal:** 
+Mecanismo de comunicación entre procesos basado en el paso de mensajes altamente estructurado, fundamental en la arquitectura del micronúcleo Mach y heredado directamente por sistemas como macOS (XNU).
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la *abstracción* central de sincronización del núcleo. Garantiza una *seguridad* extrema mediante puertos protegidos, delegando el *control de hardware* a servicios periféricos modulares, a costa de una ligera sobrecarga en el *rendimiento* debido al copiado y validación de mensajes.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

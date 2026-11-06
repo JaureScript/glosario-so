@@ -1,13 +1,9 @@
-# Concepto_32 / Concept_32
+# ASLR (Address Space Layout Randomization) / ASLR
+**Definición formal:** 
+Técnica de seguridad informática implementada por el sistema operativo que consiste en alterar de forma aleatoria las ubicaciones de las áreas de datos clave de un proceso dentro del espacio de direcciones virtuales[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es una contramedida de *seguridad* fundamental que actúa sobre la *abstracción* de la memoria virtual. El *árbitro* frustra ataques de desbordamiento al impedir que el código malicioso prediga el mapa del *control de hardware*, con un impacto nulo en el *rendimiento* de ejecución[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

@@ -1,13 +1,9 @@
-# Concepto_46 / Concept_46
+# Soft Real-Time (Tiempo Real Flexible) / Soft Real-Time
+**Definición formal:** 
+Categoría de sistemas operativos de tiempo real donde el incumplimiento ocasional de las fechas límite temporales degrada la calidad del servicio, pero no causa un fallo catastrófico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona un *control de hardware* probabilístico donde el *árbitro* prioriza el flujo temporal (ej. reproducción de video o audio) sobre el *rendimiento* de tareas regulares, ofreciendo la flexibilidad y *seguridad* necesarias para entornos multimedia interactivos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

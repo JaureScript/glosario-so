@@ -1,13 +1,9 @@
-# Concepto_37 / Concept_37
+# ZFS Intent Log (ZIL) / ZFS Intent Log
+**Definición formal:** 
+Área de registro especializada en el sistema de archivos ZFS, frecuentemente ubicada en unidades SSD ultrarrápidas (SLOG), destinada a registrar transacciones síncronas antes de consolidarlas en el grupo de almacenamiento principal.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+*Abstrae* y oculta la latencia de las escrituras obligatorias. El *árbitro* redirige el *control de hardware* hacia este registro flash para acelerar el *rendimiento* de las bases de datos, manteniendo una *seguridad* estricta e infalible frente a corrupciones por cortes eléctricos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

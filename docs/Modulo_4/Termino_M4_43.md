@@ -1,13 +1,9 @@
-# Concepto_43 / Concept_43
+# Sistema Operativo Inmutable / Immutable Operating System
+**Definición formal:** 
+Sistema operativo cuyo volumen raíz del sistema de ficheros está configurado en modo de solo lectura, impidiendo modificaciones accidentales o maliciosas del núcleo y aplicaciones base[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Representa una arquitectura enfocada en la *seguridad* estructural y la *abstracción* de entornos predecibles. El *árbitro* impide alteraciones persistentes en el *control de hardware* a nivel del sistema operativo, garantizando la fiabilidad y el despliegue a gran escala sin comprometer el *rendimiento*[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

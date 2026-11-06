@@ -1,13 +1,9 @@
-# Concepto_5 / Concept_5
+# RPC / Remote Procedure Call
+**Definición formal:** 
+Protocolo de comunicación que permite a un programa informático solicitar la ejecución de una subrutina en otro ordenador conectado a través de una red, sin tener que programar explícitamente los detalles de la transmisión[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Expande la *abstracción* del sistema operativo más allá de la máquina local. Transfiere la carga de *control de hardware* a un nodo remoto, mejorando el *rendimiento* distribuido bajo capas de *seguridad* criptográfica para la serialización de datos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

@@ -1,13 +1,9 @@
-# Concepto_38 / Concept_38
+# Asignador por Zonas / Zone Allocator
+**Definición formal:** 
+Componente del gestor de memoria de Linux que divide la memoria física en zonas lógicas (ej. DMA, Normal, HighMem) para abordar las limitaciones de direccionamiento de diferentes arquitecturas y buses heredados.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ejerce una *abstracción* organizativa sobre el mapa físico de RAM. El *árbitro* segmenta el *control de hardware* para garantizar la *seguridad* y *rendimiento* de periféricos antiguos (que requieren la zona DMA baja) sin afectar a los procesos modernos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

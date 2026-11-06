@@ -1,13 +1,9 @@
-# Concepto_16 / Concept_16
+# Puntero de Pila (SP - Stack Pointer) / Stack Pointer (SP)
+**Definición formal:** 
+Registro especial de la CPU que almacena la dirección de memoria de la cima actual de la pila de ejecución[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es vital para el *control de hardware* durante los cambios de contexto. Permite al *árbitro* del núcleo preservar y restaurar el hilo de ejecución exacto, garantizando el aislamiento de *seguridad* de las variables locales y retornos de función de cada proceso[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

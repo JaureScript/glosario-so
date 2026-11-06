@@ -1,13 +1,9 @@
-# Concepto_5 / Concept_5
+# Tabla de Inodos / Inode Table
+**Definición formal:** 
+Matriz estática de estructuras de datos ubicada en áreas reservadas del disco que almacena de forma ordenada los inodos de todos los archivos y directorios de un sistema de archivos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Permite al sistema operativo mapear con precisión la *abstracción* lógica de la jerarquía de archivos hacia los bloques del *control de hardware* físico. Aplica políticas de *seguridad* (permisos DAC) con un alto *rendimiento* de lectura y escrituras secuenciales[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

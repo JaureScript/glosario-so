@@ -1,13 +1,9 @@
-# Concepto_39 / Concept_39
+# Servidor X11 / X11 Server
+**Definición formal:** 
+Servidor gráfico tradicional basado en el protocolo X Window System utilizado en entornos UNIX/Linux para gestionar la visualización de ventanas y eventos de entrada[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como *árbitro* y capa de *abstracción* para el entorno de usuario. Ejerce el *control de hardware* sobre la pantalla, aunque su arquitectura heredada presenta desafíos de *rendimiento* y fallas estructurales de *seguridad* al no aislar estrictamente a los clientes gráficos entre sí[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

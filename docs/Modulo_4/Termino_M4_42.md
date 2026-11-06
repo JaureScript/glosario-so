@@ -1,13 +1,9 @@
-# Concepto_42 / Concept_42
+# Sistema Operativo / Operating System
+**Definición formal:** 
+Software principal que gestiona los recursos de hardware de un ordenador y provee servicios comunes para el funcionamiento de los programas de aplicación[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Desempeña el rol de *árbitro* absoluto y creador de la máquina extendida (*abstracción*). Administra de forma centralizada la asignación de memoria y el *control de hardware*, balanceando la maximización del *rendimiento* con la imposición estricta de políticas de *seguridad* global[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

@@ -1,13 +1,9 @@
-# Concepto_40 / Concept_40
+# Transición a Estado Zombie / Zombie State Transition
+**Definición formal:** 
+Fase final e inevitable en el ciclo de vida de un proceso UNIX, durante la cual el proceso libera todos sus recursos activos, conservando únicamente su estructura de control (PCB) hasta que su padre recoja el código de salida.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Representa la *abstracción* de terminación delegada. Permite al *árbitro* revocar instantáneamente el *control de hardware* (memoria y CPU) para liberar *rendimiento*, reteniendo únicamente la *seguridad* del código de estado para mantener la jerarquía estructural intacta.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

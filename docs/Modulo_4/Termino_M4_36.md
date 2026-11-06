@@ -1,13 +1,9 @@
-# Concepto_36 / Concept_36
+# Semáforo Binario / Binary Semaphore
+**Definición formal:** 
+Primitiva de sincronización que puede tomar exclusivamente dos valores (0 o 1), utilizada comúnmente para implementar exclusión mutua[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* ligera para el *árbitro* de sincronización. Garantiza la *seguridad* al restringir el *control de hardware* o el acceso a memoria a un solo proceso por vez, optimizando el *rendimiento* en escenarios propensos a condiciones de carrera[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

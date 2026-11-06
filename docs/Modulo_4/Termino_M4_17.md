@@ -1,13 +1,9 @@
-# Concepto_17 / Concept_17
+# Punteros Directos e Indirectos / Direct and Indirect Pointers
+**Definición formal:** 
+Estructuras de punteros dentro del inodo de un sistema de archivos utilizadas para localizar los bloques de datos físicos que componen un archivo, permitiendo almacenar desde archivos pequeños hasta masivos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proveen una *abstracción* de almacenamiento altamente escalable. Equilibran el *rendimiento* (acceso ultrarrápido vía punteros directos) con la flexibilidad en el *control de hardware* para mapear de manera lógica archivos cuyo tamaño excede la fragmentación del disco[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

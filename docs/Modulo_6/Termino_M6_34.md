@@ -1,13 +1,9 @@
-# Concepto_34 / Concept_34
+# Sistema de Ventanas X / X Window System
+**Definición formal:** 
+Marco de software y protocolo de red cliente-servidor que proporciona la infraestructura fundamental para construir y gestionar interfaces gráficas de usuario (GUI) en sistemas operativos tipo UNIX.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Proporciona una *abstracción* en red para el renderizado gráfico. El servidor X ejerce el *control de hardware* directo sobre el monitor y periféricos, aunque su diseño heredado introduce brechas de *seguridad* por keylogging e ineficiencias de *rendimiento* comparado con protocolos modernos.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

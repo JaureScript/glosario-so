@@ -1,13 +1,9 @@
-# Concepto_9 / Concept_9
+# Prevención de Interbloqueos / Deadlock Prevention
+**Definición formal:** 
+Estrategia de diseño que garantiza que un sistema nunca entrará en interbloqueo (deadlock) al asegurar de antemano que al menos una de las condiciones de Coffman no pueda cumplirse[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Mecanismo defensivo impuesto por el *árbitro* de asignación. Impacta negativamente el *rendimiento* debido a sus restricciones matemáticas estrictas, pero garantiza la *seguridad* estructural continua al impedir que el *hardware* quede paralizado[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

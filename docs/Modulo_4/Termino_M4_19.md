@@ -1,13 +1,9 @@
-# Concepto_19 / Concept_19
+# Reemplazo Óptimo (OPT) / Optimal Page Replacement (OPT)
+**Definición formal:** 
+Algoritmo teórico de reemplazo de páginas que selecciona para su expulsión aquella página que no será utilizada durante el periodo de tiempo más largo en el futuro; sirve como patrón de comparación ideal[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Sirve como *abstracción* teórica para auditar el *rendimiento* de políticas reales (como LRU o Reloj). Demuestra el límite matemático de eficiencia que un *árbitro* de memoria podría alcanzar en su *control de hardware* para minimizar los fallos de página[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

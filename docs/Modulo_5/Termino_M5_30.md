@@ -1,13 +1,7 @@
-# Concepto_30 / Concept_30
+# Zswap (Memoria Comprimida) / Zswap
+**Definición formal:** Subsistema del núcleo Linux que intercepta páginas de memoria descartadas, las comprime dinámicamente y las almacena en un bloque reservado de RAM (zpool) antes de enviarlas al disco de intercambio físico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** Sustituye el lento *control de hardware* electromecánico (disco) por ciclos de CPU, logrando una *abstracción* que dispara el *rendimiento* en equipos con recursos limitados. El *árbitro* asegura la estabilidad y *seguridad* contra la inanición evitando la latencia catastrófica del swapping tradicional[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

@@ -1,13 +1,9 @@
-# Concepto_1 / Concept_1
+# SSTF (Shortest Seek Time First) / Shortest Seek Time First
+**Definición formal:** 
+Algoritmo de planificación de discos que selecciona la solicitud pendiente que requiere el menor movimiento mecánico del cabezal desde su posición actual[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como un *árbitro* eficiente en el *control de hardware* del disco magnético, mejorando el *rendimiento* promedio de acceso y minimizando el desgaste físico, aunque requiere ajustes de *seguridad* adicionales para evitar la inanición de los cilindros más alejados[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

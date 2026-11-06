@@ -1,13 +1,9 @@
-# Concepto_24 / Concept_24
+# Ring 3 / Ring 3
+**Definición formal:** 
+Nivel de privilegio mínimo en la arquitectura de procesadores x86, destinado a la ejecución de aplicaciones de usuario sin acceso directo al hardware (modo usuario)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provee la *abstracción* de aislamiento fundamental para la *seguridad* del sistema operativo. Restringe el *control de hardware* directo, obligando a los procesos a utilizar llamadas al sistema arbitradas por el núcleo, evitando colapsos globales por errores de software[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

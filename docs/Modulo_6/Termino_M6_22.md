@@ -1,13 +1,9 @@
-# Concepto_22 / Concept_22
+# GDT (Global Descriptor Table) / GDT
+**Definición formal:** 
+Estructura de datos utilizada por la arquitectura x86 para definir las características de los distintos segmentos de memoria, incluyendo su tamaño, ubicación y privilegios de acceso[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provee la *abstracción* primordial de segmentación y *seguridad*. El *árbitro* la configura para imponer el *control de hardware* sobre los anillos de protección, garantizando el aislamiento de la memoria y un *rendimiento* nativo en las validaciones de acceso del procesador[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

@@ -1,13 +1,9 @@
-# Concepto_17 / Concept_17
+# UNIX / UNIX
+**Definición formal:** 
+Familia de sistemas operativos multitarea y multiusuario desarrollados originalmente en la década de 1970, caracterizados por su diseño modular, jerarquía de archivos unificada y portabilidad extrema[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Cimentó las bases de la *abstracción* moderna bajo la premisa de "todo es un archivo". Instituyó el modelo de *árbitro* con anillos de *seguridad* estrictos y un esquema de *control de hardware* basado en programas pequeños y encapsulados para maximizar el *rendimiento* modular[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

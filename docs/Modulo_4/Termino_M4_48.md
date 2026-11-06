@@ -1,13 +1,9 @@
-# Concepto_48 / Concept_48
+# Spooling / Spooling
+**Definición formal:** 
+Técnica de almacenamiento temporal en búfer (Simultaneous Peripheral Operations On-Line) utilizada para gestionar trabajos de E/S lentos (como impresoras) de forma concurrente en discos magnéticos[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Mejora sustancialmente el *rendimiento* de la CPU delegando el *control de hardware* lento a colas en disco. El *árbitro* logra abstraer la lentitud de los periféricos, impidiendo cuellos de botella y garantizando la *seguridad* en el envío de trabajos superpuestos por múltiples usuarios[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

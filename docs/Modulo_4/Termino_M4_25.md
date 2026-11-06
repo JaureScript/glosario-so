@@ -1,13 +1,9 @@
-# Concepto_25 / Concept_25
+# Round Robin / Round Robin
+**Definición formal:** 
+Algoritmo de planificación de CPU expropiativo basado en turnos rotativos, donde a cada proceso se le asigna un quántum de tiempo equitativo en orden cíclico[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como un *árbitro* imparcial que garantiza equidad en el *control de hardware*. Aunque penaliza ligeramente el *rendimiento* global debido al exceso de cambios de contexto, ofrece una excelente *abstracción* de multiprogramación interactiva y evita la inanición de los procesos[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

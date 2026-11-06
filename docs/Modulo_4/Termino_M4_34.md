@@ -1,13 +1,9 @@
-# Concepto_34 / Concept_34
+# Secure Boot / Secure Boot
+**Definición formal:** 
+Estándar de seguridad del firmware UEFI diseñado para garantizar que el equipo arranque únicamente utilizando software y cargadores de arranque confiables y firmados digitalmente[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Establece el primer eslabón de *seguridad* en el *control de hardware*. Abstrae la cadena de confianza, delegando al *árbitro* del firmware la verificación criptográfica antes de cargar el núcleo, evitando rootkits y software malicioso a nivel de bajo nivel[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

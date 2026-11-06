@@ -1,13 +1,9 @@
-# Concepto_44 / Concept_44
+# WoW64 / WoW64 (Windows 32-bit on Windows 64-bit)
+**Definición formal:** 
+Subsistema de emulación del sistema operativo Windows que permite ejecutar aplicaciones legadas de 32 bits de forma transparente sobre núcleos y hardware nativos de 64 bits.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Ofrece una *abstracción* arquitectónica impecable. El *árbitro* traduce punteros y llamadas al sistema sin perder *seguridad* estructural, manteniendo un *rendimiento* cercano al nativo al delegar el *control de hardware* matemático directamente al procesador principal.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

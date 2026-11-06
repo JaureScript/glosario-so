@@ -1,13 +1,9 @@
-# Concepto_28 / Concept_28
+# Pila del Kernel / Kernel Stack
+**Definición formal:** 
+Región de memoria aislada de tamaño fijo asignada a cada hilo del sistema para almacenar sus variables locales, parámetros y direcciones de retorno de forma segura cuando ejecuta código en modo privilegiado[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Constituye una barrera de *seguridad* crítica y una *abstracción* de aislamiento. Permite al *árbitro* gestionar interrupciones y llamadas al sistema con alto *rendimiento*, previniendo que el espacio de usuario malicioso manipule el flujo del *control de hardware* del núcleo[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

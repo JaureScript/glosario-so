@@ -1,13 +1,9 @@
-# Concepto_31 / Concept_31
+# Segmento de Texto / Text Segment
+**Definición formal:** 
+Sección de la memoria de un programa que contiene el código ejecutable de la aplicación (instrucciones de máquina)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Brinda una capa de *abstracción* al encapsular las instrucciones, permitiendo al *árbitro* aplicar políticas de *seguridad* estrictas al marcar este bloque como de solo lectura en el *hardware*, impidiendo modificaciones maliciosas o accidentales en tiempo de ejecución[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

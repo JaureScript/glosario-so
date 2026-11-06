@@ -1,13 +1,9 @@
-# Concepto_49 / Concept_49
+# Init (Proceso 1 / Systemd) / Init Process
+**Definición formal:** 
+El primer proceso en espacio de usuario ejecutado por el núcleo durante el arranque, actuando como ancestro directo o indirecto de todos los procesos del sistema y responsable de gestionar el ciclo de vida del entorno.
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es el *árbitro* supremo y definitivo del espacio de usuario. Culmina la *abstracción* de la máquina extendida encendiendo los servicios con máxima *seguridad*, optimizando el *rendimiento* del arranque en paralelo y asumiendo el *control de hardware* residual (procesos huérfanos) hasta el apagado final.
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 6]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

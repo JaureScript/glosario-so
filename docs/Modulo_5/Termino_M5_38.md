@@ -1,13 +1,9 @@
-# Concepto_38 / Concept_38
+# Descriptores de Seguridad / Security Descriptors
+**Definición formal:** 
+Estructura de datos asociada a cada objeto protegible en sistemas Windows NT que contiene su información de seguridad, incluyendo el propietario, el grupo principal y la lista de control de acceso discrecional (DACL)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Funciona como el validador principal de *seguridad* para el *árbitro* de Windows. Aplica políticas de *abstracción* sobre el *control de hardware* permitiendo o denegando el acceso de hilos al almacenamiento o memoria basándose en tokens de autenticación de altísimo *rendimiento*[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

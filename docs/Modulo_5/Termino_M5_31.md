@@ -1,13 +1,9 @@
-# Concepto_31 / Concept_31
+# Access Control List (ACL) / Access Control List
+**Definición formal:** 
+Estructura de datos avanzada adjunta a un objeto (como un archivo o proceso) que especifica detalladamente qué usuarios o procesos del sistema tienen concedidas o denegadas operaciones específicas sobre dicho objeto[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Actúa como la herramienta de *seguridad* granular del *árbitro*. Supera la *abstracción* básica de los permisos UNIX convencionales al delegar un *control de hardware* restrictivo mucho más específico, garantizando que el *rendimiento* no se vea comprometido al procesar reglas de acceso complejas[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

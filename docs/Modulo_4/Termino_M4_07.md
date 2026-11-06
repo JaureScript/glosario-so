@@ -1,13 +1,9 @@
-# Concepto_7 / Concept_7
+# Planificación de CPU / CPU Scheduling
+**Definición formal:** 
+Algoritmo y política del sistema operativo que determina qué proceso o hilo de la cola de listos obtiene el control de la CPU en cada momento[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la función medular del *árbitro* del sistema. Regula el *rendimiento* y la equidad al dictar qué entidad posee acceso exclusivo temporal al *hardware* de procesamiento, previniendo la inanición y maximizando la multiprogramación[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

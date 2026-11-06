@@ -1,13 +1,9 @@
-# Concepto_44 / Concept_44
+# LVM (Logical Volume Manager) / Logical Volume Manager
+**Definición formal:** 
+Subsistema de almacenamiento que introduce una capa de abstracción lógica entre el sistema de archivos y las particiones físicas, permitiendo redimensionar, agrupar y gestionar volúmenes de disco en caliente[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Desvincula el *control de hardware* rígido de los discos físicos. El *árbitro* administra esta *abstracción* para crear arreglos dinámicos (striping o mirroring), elevando drásticamente el *rendimiento* de lectura/escritura y garantizando la *seguridad* de los datos mediante instantáneas (snapshots)[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

@@ -1,13 +1,9 @@
-# Concepto_43 / Concept_43
+# IOMMU (Input/Output Memory Management Unit) / IOMMU
+**Definición formal:** 
+Componente de hardware especializado que traduce las direcciones de memoria virtual a físicas específicamente para los dispositivos de E/S capaces de realizar acceso directo a memoria (DMA)[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Es la barrera de *seguridad* física definitiva para los periféricos. El *árbitro* la programa para restringir el *control de hardware* de las tarjetas PCI/PCIe, aislando la *abstracción* de memoria y bloqueando ataques de DMA maliciosos sin penalizar el *rendimiento* de transferencia[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

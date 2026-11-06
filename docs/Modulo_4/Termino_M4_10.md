@@ -1,13 +1,9 @@
-# Concepto_10 / Concept_10
+# Principio de Menor Privilegio / Principle of Least Privilege
+**Definición formal:** 
+Principio fundamental de seguridad informática que establece que todo proceso, usuario o componente debe poseer únicamente los permisos y privilegios mínimos indispensables para realizar su labor específica[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Pilar arquitectónico de *seguridad*. Regula cómo la capa de *abstracción* expone los recursos físicos, forzando al núcleo a actuar como un *árbitro* desconfiado que deniega por defecto el *control de hardware* a procesos no autorizados[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 4]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

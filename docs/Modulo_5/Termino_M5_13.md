@@ -1,13 +1,9 @@
-# Concepto_13 / Concept_13
+# TLB Miss (Fallo de TLB) / TLB Miss
+**Definición formal:** 
+Evento de hardware que ocurre cuando la traducción de una dirección virtual solicitada no se encuentra en la memoria caché TLB, requiriendo un recorrido completo por la tabla de páginas en RAM[cite: 3].
 
-**Definición formal:**
-[Escribe aquí tu explicación técnica rigurosa. Máximo 4 a 6 líneas.]
-
-**Rol Operativo / Utilidad:**
-[Explica cómo interviene en el funcionamiento del SO: árbitro, abstracción, control de hardware, seguridad o rendimiento.]
-
-**Cita Bibliográfica formal:**
-[Autor. (Año). Título del libro. Editorial. Capítulo X.]
+**Rol Operativo / Utilidad:** 
+Provoca una degradación inmediata del *rendimiento* al requerir múltiples ciclos de *control de hardware* hacia la memoria principal, obligando al *árbitro* (mediante el núcleo o la MMU) a cargar la nueva traducción para mantener la *abstracción* y la *seguridad* del direccionamiento[cite: 4].
 
 ---
-**Navegación:** [[Índice Alfabético (A-Z)]] | [[Índice Módulo 5]]
+**Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)
