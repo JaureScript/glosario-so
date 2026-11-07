@@ -5,5 +5,7 @@ Capa de software o firmware (también llamada monitor de máquina virtual) que p
 **Rol Operativo / Utilidad:** 
 Funciona como el *árbitro* y *controlador de hardware* supremo en entornos virtualizados. Aísla criptográficamente y particiona los recursos físicos, garantizando *seguridad* estricta entre sistemas operativos invitados paralelos.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

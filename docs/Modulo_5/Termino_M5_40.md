@@ -5,5 +5,7 @@ Sistema de archivos transaccional con registro (journaling) estándar en la mayo
 **Rol Operativo / Utilidad:** 
 Ejerce el *control de hardware* sobre el disco implementando la técnica de extensiones (extents) para reducir la fragmentación. Su diseño garantiza la *seguridad* y consistencia de la *abstracción* de almacenamiento con un *rendimiento* óptimo para entornos empresariales[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

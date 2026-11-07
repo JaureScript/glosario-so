@@ -5,5 +5,7 @@ Sistema operativo primitivo donde los trabajos de computación se agrupaban en l
 **Rol Operativo / Utilidad:** 
 Fue el primer modelo de *árbitro* para maximizar el *rendimiento* secuencial del procesador. Redujo los tiempos muertos de *control de hardware* entre ejecuciones, aunque carecía de las capas de *abstracción* interactivas de los sistemas de tiempo compartido modernos[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

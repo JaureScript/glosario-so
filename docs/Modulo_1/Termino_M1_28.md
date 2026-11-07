@@ -5,5 +5,7 @@ Algoritmo de planificación de CPU que particiona la cola de listos en varias co
 **Rol Operativo / Utilidad:** 
 Desempeña la función de *árbitro* del planificador. Estabiliza el *rendimiento* del sistema operativo al segregar estrictamente los procesos críticos (que exigen alta capacidad de respuesta) de aquellos orientados a procesamiento por lotes en segundo plano.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

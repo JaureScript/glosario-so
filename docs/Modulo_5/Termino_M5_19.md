@@ -5,5 +5,7 @@ Capa de software dentro del núcleo que proporciona una interfaz estandarizada y
 **Rol Operativo / Utilidad:** 
 Ejerce la *abstracción* definitiva sobre el almacenamiento. El *árbitro* intercepta las llamadas y las redirige hacia el *control de hardware* de cada disco físico, garantizando el *rendimiento* unificado y aplicando normas de *seguridad* independientemente de su formato lógico[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

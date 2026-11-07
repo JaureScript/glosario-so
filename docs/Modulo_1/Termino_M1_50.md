@@ -5,5 +5,7 @@ Método de gestión de entrada/salida donde el dispositivo periférico genera un
 **Rol Operativo / Utilidad:** 
 Incrementa sustancialmente el *rendimiento* arquitectónico, delegando la reactividad del *control de hardware* al controlador de interrupciones asíncrono. Esto evita bloqueos síncronos innecesarios por parte de la CPU mientras los dispositivos periféricos resuelven operaciones lentas.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

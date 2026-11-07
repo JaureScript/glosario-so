@@ -5,5 +5,7 @@ Familia de sistemas operativos multitarea y multiusuario desarrollados originalm
 **Rol Operativo / Utilidad:** 
 Cimentó las bases de la *abstracción* moderna bajo la premisa de "todo es un archivo". Instituyó el modelo de *árbitro* con anillos de *seguridad* estrictos y un esquema de *control de hardware* basado en programas pequeños y encapsulados para maximizar el *rendimiento* modular[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

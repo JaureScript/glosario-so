@@ -5,5 +5,7 @@ Parámetro de control de recursos en cgroups v2 que establece el consumo estrict
 **Rol Operativo / Utilidad:** 
 Ejerce el *control de hardware* preventivo y actúa como *árbitro* estricto de *seguridad* y *rendimiento*, forzando la finalización (vía OOM Killer) de aplicaciones que excedan su cuota para evitar la degradación total del sistema.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

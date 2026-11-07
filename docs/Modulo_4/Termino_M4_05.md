@@ -5,5 +5,7 @@ Herramienta de benchmarking clásica diseñada para medir el rendimiento de serv
 **Rol Operativo / Utilidad:** 
 Se emplea para someter a prueba de estrés el *rendimiento* del planificador y la pila de red del sistema operativo. Evalúa cómo el *árbitro* maneja el *control de hardware* bajo ráfagas intensivas de peticiones concurrentes[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

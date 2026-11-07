@@ -5,5 +5,7 @@ Módulo de seguridad avanzado para el núcleo Linux desarrollado por la NSA, que
 **Rol Operativo / Utilidad:** 
 Funciona como un *árbitro* secundario de *seguridad* extrema. Refuerza el *control de hardware* denegando accesos basándose en contextos etiquetados de *abstracción*, incluso si el proceso posee privilegios de superusuario, sin penalizar sustancialmente el *rendimiento*[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

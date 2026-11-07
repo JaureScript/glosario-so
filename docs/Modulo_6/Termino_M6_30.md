@@ -5,5 +5,7 @@ Registro de control interno de la unidad central de procesamiento (CPU) que alma
 **Rol Operativo / Utilidad:** 
 Representa el nivel más profundo de *control de hardware*. El *árbitro* no lo manipula directamente, pero su correcta *abstracción* por parte del procesador es vital para mantener el *rendimiento* del ciclo de reloj y la *seguridad* al interceptar instrucciones privilegiadas ilegales[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

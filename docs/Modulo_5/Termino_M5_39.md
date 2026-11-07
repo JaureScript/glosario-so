@@ -5,5 +5,7 @@ Modelo de operaciones de entrada y salida donde un proceso inicia una transferen
 **Rol Operativo / Utilidad:** 
 Maximiza el *rendimiento* de la CPU. El *árbitro* separa temporalmente la solicitud del resultado, permitiendo que la aplicación ignore la latencia del *control de hardware* mediante *abstracciones* de eventos o señales de *seguridad* enviadas cuando la transferencia culmina[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

@@ -5,5 +5,7 @@ Algoritmo de planificación de CPU no expropiativo que atiende a los procesos en
 **Rol Operativo / Utilidad:** 
 Ejerce un rol primario de *árbitro*[cite: 4] del procesador. Aunque su implementación es muy eficiente y evita la inanición, penaliza severamente el *rendimiento* general del sistema si procesos largos acaparan la CPU frente a procesos interactivos cortos.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

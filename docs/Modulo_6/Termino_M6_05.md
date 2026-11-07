@@ -5,5 +5,7 @@ Protocolo de comunicación que permite a un programa informático solicitar la e
 **Rol Operativo / Utilidad:** 
 Expande la *abstracción* del sistema operativo más allá de la máquina local. Transfiere la carga de *control de hardware* a un nodo remoto, mejorando el *rendimiento* distribuido bajo capas de *seguridad* criptográfica para la serialización de datos[cite: 4].
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

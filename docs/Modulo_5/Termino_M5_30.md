@@ -3,5 +3,7 @@
 
 **Rol Operativo / Utilidad:** Sustituye el lento *control de hardware* electromecánico (disco) por ciclos de CPU, logrando una *abstracción* que dispara el *rendimiento* en equipos con recursos limitados. El *árbitro* asegura la estabilidad y *seguridad* contra la inanición evitando la latencia catastrófica del swapping tradicional[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

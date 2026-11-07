@@ -5,5 +5,7 @@ Mecanismo del gestor de memoria, crítico en arquitecturas NUMA, que fuerza la r
 **Rol Operativo / Utilidad:** 
 Maximiza el *rendimiento* del procesador respetando la topología física del *control de hardware*. El *árbitro* destruye temporalmente la *abstracción* de la caché para mantener la *seguridad* temporal y la latencia baja en la ejecución de hilos hiper-locales.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

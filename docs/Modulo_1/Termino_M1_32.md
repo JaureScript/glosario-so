@@ -5,5 +5,7 @@ Gestor de ventanas y servidor de presentación en la arquitectura gráfica moder
 **Rol Operativo / Utilidad:** 
 Actúa como *árbitro* y *controlador de hardware* visual. Mejora el *rendimiento* y la *seguridad* al aislar los búferes de los clientes gráficos, eliminando el parpadeo (tearing) y bloqueando la intercepción no autorizada de eventos de teclado o pantalla.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

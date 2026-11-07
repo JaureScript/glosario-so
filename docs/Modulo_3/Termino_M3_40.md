@@ -5,5 +5,7 @@ Sistema de archivos de unión (union mount) utilizado comúnmente en contenedore
 **Rol Operativo / Utilidad:** 
 Provee una innovadora *abstracción* de almacenamiento que refuerza la *seguridad*[cite: 4], permitiendo que múltiples entornos confinados compartan los mismos bloques de *hardware* (disco) base, sin comprometer la inmutabilidad de la imagen subyacente y optimizando drásticamente el espacio.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

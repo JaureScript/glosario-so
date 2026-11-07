@@ -5,5 +5,7 @@ Política de almacenamiento en caché donde cualquier modificación de los datos
 **Rol Operativo / Utilidad:** 
 Garantiza la *seguridad* y coherencia absoluta de los datos en tiempo real. Aunque esta *abstracción* penaliza el *rendimiento* de escritura, asegura que el *control de hardware* del almacenamiento mantenga un estado idéntico e infalible respecto a la memoria volátil.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

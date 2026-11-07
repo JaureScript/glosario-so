@@ -5,5 +5,7 @@ Situación de bloqueo permanente en la que un conjunto de procesos se encuentra 
 **Rol Operativo / Utilidad:** 
 Constituye una falla crítica en la asignación de hardware que degrada a cero el *rendimiento* de los procesos involucrados, requiriendo que el *árbitro* del sistema operativo implemente algoritmos preventivos o mecanismos de terminación forzada para preservar la *seguridad* global.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

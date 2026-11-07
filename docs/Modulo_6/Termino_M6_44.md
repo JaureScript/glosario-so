@@ -5,5 +5,7 @@ Subsistema de emulación del sistema operativo Windows que permite ejecutar apli
 **Rol Operativo / Utilidad:** 
 Ofrece una *abstracción* arquitectónica impecable. El *árbitro* traduce punteros y llamadas al sistema sin perder *seguridad* estructural, manteniendo un *rendimiento* cercano al nativo al delegar el *control de hardware* matemático directamente al procesador principal.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

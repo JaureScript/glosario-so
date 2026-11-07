@@ -5,5 +5,7 @@ Núcleo de sistema operativo monolítico de código abierto, basado en UNIX, que
 **Rol Operativo / Utilidad:** 
 Es el *árbitro* y gestor definitivo del equipo. Despliega todas las funciones de *control de hardware*, *abstracción* de recursos, políticas de *seguridad* y optimización de *rendimiento* ejecutándose en el nivel de máximo privilegio (Ring 0).
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

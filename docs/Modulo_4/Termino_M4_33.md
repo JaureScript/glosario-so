@@ -5,5 +5,7 @@ Fragmento de código dentro de un programa que accede a recursos compartidos (va
 **Rol Operativo / Utilidad:** 
 Es el concepto base que obliga al *árbitro* a implementar exclusión mutua para la *seguridad* de los datos. Su gestión eficiente es vital para el *rendimiento* concurrente y para evitar conflictos directos y corrupciones en el *control de hardware* compartido[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

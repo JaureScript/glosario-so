@@ -5,5 +5,7 @@ Estructura de datos indexada, alojada en el primer sector físico del disco, que
 **Rol Operativo / Utilidad:** 
 Establece la *abstracción* geométrica del volumen físico. Garantiza la *seguridad* estructural indicándole al *árbitro* los sectores exactos donde está permitido ejercer el *control de hardware*, protegiendo sistemas operativos y sistemas de archivos independientes contra la sobrescritura accidental[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

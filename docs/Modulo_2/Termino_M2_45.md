@@ -5,5 +5,7 @@ Anomalía de planificación en la cual un proceso de alta prioridad se ve indire
 **Rol Operativo / Utilidad:** 
 Afecta negativamente el *rendimiento* determinista de los sistemas en tiempo real, obligando al planificador y al *árbitro* de sincronización del núcleo a implementar protocolos avanzados (como la herencia de prioridades) para asegurar la estabilidad operativa.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

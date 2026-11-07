@@ -5,5 +5,7 @@ Mecanismo de comunicación entre procesos (IPC) de alto rendimiento, nativo de W
 **Rol Operativo / Utilidad:** 
 Mejora radicalmente el *rendimiento* en arquitecturas híbridas. Actúa como *abstracción* para que el *árbitro* delegue el *control de hardware* a subsistemas separados, asegurando la *seguridad* del núcleo sin la latencia de los protocolos de red tradicionales[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

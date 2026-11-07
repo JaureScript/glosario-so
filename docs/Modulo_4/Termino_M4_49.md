@@ -5,5 +5,7 @@ Mecanismo de bloqueo de baja sobrecarga donde un hilo en espera evalúa repetida
 **Rol Operativo / Utilidad:** 
 Es una primitiva de *seguridad* para la exclusión mutua. El *árbitro* la utiliza en sistemas multiprocesador para maximizar el *rendimiento* ante bloqueos muy breves, evitando el costoso cambio de contexto a nivel de *control de hardware*, a costa de consumir ciclos de reloj durante la espera activa[cite: 4].
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

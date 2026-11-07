@@ -5,5 +5,7 @@ Técnica empleada en sistemas de archivos y bases de datos transaccionales donde
 **Rol Operativo / Utilidad:** 
 Es el pilar de la *seguridad* estructural frente a fallos. El *árbitro* difiere el *control de hardware* de las escrituras dispersas, transformándolas en escrituras secuenciales que mejoran drásticamente el *rendimiento* y proveen la *abstracción* de recuperación atómica (rollback) tras un corte eléctrico.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

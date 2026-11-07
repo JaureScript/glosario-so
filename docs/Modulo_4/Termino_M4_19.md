@@ -5,5 +5,7 @@ Algoritmo teórico de reemplazo de páginas que selecciona para su expulsión aq
 **Rol Operativo / Utilidad:** 
 Sirve como *abstracción* teórica para auditar el *rendimiento* de políticas reales (como LRU o Reloj). Demuestra el límite matemático de eficiencia que un *árbitro* de memoria podría alcanzar en su *control de hardware* para minimizar los fallos de página[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

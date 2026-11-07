@@ -5,5 +5,7 @@ Datos estructurados que describen las características, propiedades y organizaci
 **Rol Operativo / Utilidad:** 
 Son fundamentales para que el *árbitro* de almacenamiento aplique políticas de *seguridad* (como controles de acceso por usuario) y agilice el *rendimiento* en las búsquedas lógicas, proporcionando una *abstracción* organizativa sólida sobre la disposición física de los bloques en el disco.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

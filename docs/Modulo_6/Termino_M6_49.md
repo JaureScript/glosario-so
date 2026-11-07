@@ -5,5 +5,7 @@ El primer proceso en espacio de usuario ejecutado por el núcleo durante el arra
 **Rol Operativo / Utilidad:** 
 Es el *árbitro* supremo y definitivo del espacio de usuario. Culmina la *abstracción* de la máquina extendida encendiendo los servicios con máxima *seguridad*, optimizando el *rendimiento* del arranque en paralelo y asumiendo el *control de hardware* residual (procesos huérfanos) hasta el apagado final.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

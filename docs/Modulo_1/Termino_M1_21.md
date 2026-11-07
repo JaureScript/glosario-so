@@ -5,5 +5,7 @@ Servidor gráfico minimalista y compositor basado en Wayland para sistemas UNIX/
 **Rol Operativo / Utilidad:** 
 Actúa como una capa de *abstracción y seguridad*, gestionando directamente el hardware de video (DRM/KMS) para restringir la interacción del usuario a una única aplicación, impidiendo el acceso no autorizado al resto del entorno del sistema operativo.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

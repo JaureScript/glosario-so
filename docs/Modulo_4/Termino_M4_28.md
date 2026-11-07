@@ -5,5 +5,7 @@ Técnica de gestión de memoria virtual que divide la memoria lógica en segment
 **Rol Operativo / Utilidad:** 
 Proporciona una *abstracción* muy cercana a la visión del programador. Facilita la *seguridad* al permitir compartir librerías a nivel de bloque lógico, aunque sufre penalizaciones de *rendimiento* a nivel de *control de hardware* debido a la fragmentación externa progresiva[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

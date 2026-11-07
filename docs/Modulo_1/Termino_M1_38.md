@@ -5,5 +5,7 @@ Estrategia de optimización utilizada en la gestión de memoria y sistemas de ar
 **Rol Operativo / Utilidad:** 
 Optimiza de forma drástica el *rendimiento* y la asignación eficiente del *hardware*. Posibilita operaciones operativas críticas, como la creación acelerada de procesos hijos (llamada al sistema fork), evitando duplicaciones costosas en memoria física.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

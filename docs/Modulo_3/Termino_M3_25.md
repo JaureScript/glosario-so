@@ -5,5 +5,7 @@ Configuración de un sistema de archivos o volumen de almacenamiento que restrin
 **Rol Operativo / Utilidad:** 
 Ejerce un control estricto de *seguridad*[cite: 4]. Previene la alteración maliciosa o accidental del sistema operativo, garantizando la inmutabilidad de los datos críticos a nivel de *control de hardware* en contenedores y servidores de producción.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

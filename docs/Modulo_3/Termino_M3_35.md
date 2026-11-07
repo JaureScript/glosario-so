@@ -5,5 +5,7 @@ Arquitectura de sistema operativo en la cual la totalidad de los servicios esenc
 **Rol Operativo / Utilidad:** 
 Maximiza el *rendimiento* de las llamadas al sistema y el *control de hardware*[cite: 4] eliminando los cambios de contexto internos, aunque compromete parcialmente la *seguridad* arquitectónica ya que un fallo fatal en cualquier controlador (driver) puede provocar un colapso total (Kernel Panic).
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

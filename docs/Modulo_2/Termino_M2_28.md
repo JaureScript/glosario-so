@@ -5,5 +5,7 @@ Hipervisor alojado (hosted) que se ejecuta como una aplicación convencional sob
 **Rol Operativo / Utilidad:** 
 Proporciona una *abstracción* flexible apoyándose en las capacidades de *control de hardware* del sistema operativo base. Aunque sacrifica *rendimiento* debido a las múltiples capas de traducción, facilita enormemente las pruebas de software y el desarrollo.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

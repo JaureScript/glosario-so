@@ -5,5 +5,7 @@ Arquitectura de sistemas multiprocesador donde el tiempo y la latencia requerido
 **Rol Operativo / Utilidad:** 
 Desafía la *abstracción* tradicional de memoria homogénea. Obliga al *árbitro* (planificador) a aplicar estrictas políticas de afinidad de *control de hardware*, despachando hilos únicamente a los nodos locales para mantener un alto *rendimiento* y evitar la saturación del bus de interconexión[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

@@ -5,5 +5,7 @@ Micronúcleo de alta seguridad con verificación formal matemática rigurosa que
 **Rol Operativo / Utilidad:** 
 Representa el estado del arte en *seguridad* y *abstracción*. El *árbitro* opera con un mínimo absoluto de líneas de código en modo privilegiado, delegando el *control de hardware* a servidores de usuario y priorizando una fiabilidad inquebrantable por encima del *rendimiento* monolítico tradicional[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

@@ -5,5 +5,7 @@ Sector de arranque tradicional situado en el primer sector físico de un disco d
 **Rol Operativo / Utilidad:** 
 Ejerce el *control de hardware* inicial durante el arranque. Abstrae la ubicación física del núcleo del sistema operativo en el disco, aunque presenta limitaciones críticas de *seguridad* al carecer de firmas digitales robustas y restringir el almacenamiento a particiones de tamaño limitado.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

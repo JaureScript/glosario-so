@@ -5,5 +5,7 @@ Arquitectura de colas de envío y recepción múltiples e independientes en disp
 **Rol Operativo / Utilidad:** 
 Maximiza radicalmente el *rendimiento* del almacenamiento al explotar el *hardware multicore*. Elimina el cuello de botella de bloqueo único de las arquitecturas de E/S tradicionales, permitiendo un procesamiento asíncrono y masivo de lectura y escritura.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

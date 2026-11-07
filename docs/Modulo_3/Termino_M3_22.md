@@ -5,5 +5,7 @@ Modo de ejecución restringido del procesador (Ring 3), destinado a las aplicaci
 **Rol Operativo / Utilidad:** 
 Proporciona la *abstracción* primaria de *seguridad*[cite: 4]. Aísla la ejecución de programas regulares, obligándolos a solicitar servicios a través de llamadas al sistema, lo que evita que un proceso defectuoso comprometa el *rendimiento* y estabilidad de la máquina.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

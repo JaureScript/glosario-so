@@ -3,5 +3,7 @@
 
 **Rol Operativo / Utilidad:** Impulsa el *rendimiento* visual del equipo delegando el *control de hardware* de renderizado. El *árbitro* del núcleo aísla esta memoria para que el compositor gráfico opere sin agotar la RAM principal del sistema, mejorando la *seguridad* y estabilidad del entorno[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

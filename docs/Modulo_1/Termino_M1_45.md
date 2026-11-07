@@ -5,5 +5,7 @@ Representación gráfica en forma de barras temporales utilizada para ilustrar e
 **Rol Operativo / Utilidad:** 
 Funciona como el modelo de evaluación teórica para auditar el *rendimiento* del planificador. Permite visualizar y calcular métricas de respuesta, validando la eficacia del sistema operativo en su rol de *árbitro* distribuidor del tiempo de procesador.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

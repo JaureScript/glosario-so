@@ -5,5 +5,7 @@ Ineficiencia de la memoria que ocurre cuando existe suficiente memoria total lib
 **Rol Operativo / Utilidad:** 
 Representa una deficiencia en la gestión y *control del hardware*[cite: 4]. Degrada severamente el *rendimiento*, obligando al núcleo a implementar abstracciones complejas como la paginación para agrupar lógicamente marcos físicos físicamente dispersos.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

@@ -6,5 +6,7 @@ Función principal del sistema operativo que gestiona, asigna y arbitra de maner
 **Rol Operativo / Utilidad:** 
 Desempeña el rol de *árbitro* absoluto y garante de la *seguridad*[cite: 4], asegurando que el rendimiento sea óptimo y bloqueando monopolios que puedan causar inanición o interbloqueos.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

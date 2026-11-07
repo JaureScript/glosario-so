@@ -5,5 +5,7 @@ Espacio de nombres de Linux que aísla los recursos de comunicación entre proce
 **Rol Operativo / Utilidad:** 
 Ejerce un rol fundamental en la *seguridad* y *abstracción* arquitectónica en entornos virtualizados ligeros, garantizando que procesos confinados en un contenedor no puedan interceptar, saturar o interferir maliciosamente con los flujos de comunicación de otros contenedores.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

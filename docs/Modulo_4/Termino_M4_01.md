@@ -5,5 +5,7 @@ Extensión de la jerarquía de paginación de la arquitectura x86_64 que introdu
 **Rol Operativo / Utilidad:** 
 Amplía la capacidad de *abstracción* de memoria del sistema operativo, permitiendo al *árbitro* gestionar servidores con cantidades masivas de RAM física, lo cual optimiza el *rendimiento* en aplicaciones de *hardware* a gran escala[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

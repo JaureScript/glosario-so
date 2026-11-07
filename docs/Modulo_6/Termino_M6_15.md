@@ -5,5 +5,7 @@ Técnica de optimización de operaciones de entrada y salida en la que la CPU no
 **Rol Operativo / Utilidad:** 
 Maximiza el *rendimiento* del sistema reduciendo los cambios de contexto. El *árbitro* utiliza el *control de hardware* vía DMA para abstraer el flujo de datos, garantizando la *seguridad* de las transferencias a velocidades de red nativas sin saturar el procesador[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

@@ -5,5 +5,7 @@ Modelo de gestión de memoria que define el conjunto específico de páginas vir
 **Rol Operativo / Utilidad:** 
 Permite al *árbitro* predecir y asignar el *control de hardware* necesario para mantener un *rendimiento* óptimo, garantizando la *seguridad* de ejecución al evitar que procesos activos compitan de forma destructiva por los mismos marcos de memoria física[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)

@@ -5,5 +5,7 @@ Nivel de privilegio mínimo en la arquitectura de procesadores x86, destinado a 
 **Rol Operativo / Utilidad:** 
 Provee la *abstracción* de aislamiento fundamental para la *seguridad* del sistema operativo. Restringe el *control de hardware* directo, obligando a los procesos a utilizar llamadas al sistema arbitradas por el núcleo, evitando colapsos globales por errores de software[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

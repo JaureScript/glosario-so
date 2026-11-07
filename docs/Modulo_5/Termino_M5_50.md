@@ -5,5 +5,7 @@ Temporizador de hardware integrado en la placa base que desencadena automáticam
 **Rol Operativo / Utilidad:** 
 Constituye la última línea de *seguridad* física en servidores de misión crítica. Si el *árbitro* del software colapsa (ej. deadlock total en el espacio del núcleo), el *control de hardware* autónomo asume el mando, forzando un reseteo para recuperar el *rendimiento* y la disponibilidad del nodo[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

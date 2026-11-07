@@ -5,5 +5,7 @@ Estándar de seguridad del firmware UEFI diseñado para garantizar que el equipo
 **Rol Operativo / Utilidad:** 
 Establece el primer eslabón de *seguridad* en el *control de hardware*. Abstrae la cadena de confianza, delegando al *árbitro* del firmware la verificación criptográfica antes de cargar el núcleo, evitando rootkits y software malicioso a nivel de bajo nivel[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

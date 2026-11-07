@@ -5,5 +5,7 @@ Unidad básica de ejecución más pequeña que un sistema operativo puede planif
 **Rol Operativo / Utilidad:** 
 Es la clave para el *rendimiento* concurrente y la escalabilidad del procesador. Permite al *árbitro* (planificador) despachar múltiples secuencias de instrucciones de una misma aplicación hacia distintos núcleos físicos simultáneamente, reduciendo la penalización por cambio de contexto.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

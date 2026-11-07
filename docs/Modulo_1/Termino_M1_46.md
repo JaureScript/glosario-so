@@ -5,5 +5,7 @@ Bit indicador dentro de una entrada de tabla de páginas (PTE) que se activa aut
 **Rol Operativo / Utilidad:** 
 Optimiza drásticamente el *rendimiento* de la gestión de memoria virtual y reduce el desgaste por *control de hardware* de E/S, asegurando que el núcleo solo incurra en costosas escrituras físicas a disco cuando los datos en memoria realmente han mutado.
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

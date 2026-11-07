@@ -5,5 +5,7 @@ Versión expropiativa del algoritmo SJF, donde el planificador desbanca al proce
 **Rol Operativo / Utilidad:** 
 Actúa como una política expropiativa donde el *árbitro* fuerza la interrupción del *control de hardware* para favorecer tareas más cortas. Optimiza al límite el *rendimiento* (tiempo medio de espera), aunque genera riesgos de *seguridad* (inanición) para procesos con ráfagas computacionales muy largas[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

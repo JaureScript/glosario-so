@@ -5,5 +5,7 @@ Identificador numérico único asignado por el núcleo del sistema operativo a c
 **Rol Operativo / Utilidad:** 
 Proporciona una *abstracción* fundamental para el *árbitro* de procesos. Permite al planificador rastrear, interrogar y aplicar señales de *control de hardware* (como terminaciones forzadas por *seguridad*) a entidades de software específicas sin ambigüedad[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

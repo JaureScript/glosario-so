@@ -5,5 +5,7 @@ Nivel de privilegio máximo en la arquitectura de procesadores x86, donde se eje
 **Rol Operativo / Utilidad:** 
 Constituye la zona de máxima *seguridad* y *control de hardware* irrestricto. Desde este anillo, el núcleo (como *árbitro* principal) gestiona la memoria, despacha interrupciones y orquesta todas las *abstracciones* del sistema operativo con el mayor *rendimiento* posible[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

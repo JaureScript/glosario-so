@@ -5,5 +5,7 @@ Programa informático o proceso de fondo en sistemas UNIX/Linux que se ejecuta d
 **Rol Operativo / Utilidad:** 
 Soporta la *abstracción* de los servicios del sistema operativo. El *árbitro* los inicializa durante el arranque bajo políticas de *seguridad* estrictas, delegándoles el *control de hardware* especializado (como impresoras o red) sin penalizar el *rendimiento* de la interfaz de usuario[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

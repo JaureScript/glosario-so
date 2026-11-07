@@ -5,5 +5,7 @@ Capa de software que permite a usuarios sin privilegios crear y gestionar sus pr
 **Rol Operativo / Utilidad:** 
 Representa una de las *abstracciones* más potentes en almacenamiento. El *árbitro* delega el *control de hardware* lógico a aplicaciones comunes, garantizando la *seguridad* estructural al evitar que un fallo en el sistema de archivos personalizado provoque un pánico del núcleo (Kernel Panic)[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

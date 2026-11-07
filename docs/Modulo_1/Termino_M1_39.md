@@ -5,5 +5,7 @@ Modelo de control de acceso en el cual el propietario de un objeto (como un arch
 **Rol Operativo / Utilidad:** 
 Funciona como el esquema base de *seguridad* y *árbitro* en sistemas operativos tradicionales (como UNIX), descentralizando la administración de permisos sobre el almacenamiento físico mediante una capa de abstracción basada en usuarios y grupos numéricos.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

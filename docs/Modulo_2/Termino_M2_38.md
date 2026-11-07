@@ -5,5 +5,7 @@ El primer proceso del espacio de usuario (con PID 1) lanzado por el núcleo de L
 **Rol Operativo / Utilidad:** 
 Actúa como el *árbitro* supervisor definitivo de todo el entorno del usuario, manteniendo la *seguridad* y estabilidad del sistema operativo al monitorear servicios críticos, adoptar procesos huérfanos y gestionar paralelamente el *rendimiento* del arranque.
 
+**Cita Bibliográfica formal:** Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2018). *Operating Systems: Three Easy Pieces*. Arpaci-Dusseau Books. Capítulo 15-16.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

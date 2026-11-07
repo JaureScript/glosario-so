@@ -3,5 +3,7 @@
 
 **Rol Operativo / Utilidad:** Proporciona la *abstracción* máxima en el almacenamiento físico. Interviene como *árbitro* infalible de *seguridad* criptográfica y estructural (eliminando la corrupción silenciosa) e incrementa el *rendimiento* del *control de hardware* agrupando cachés masivas en la memoria principal (ARC)[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

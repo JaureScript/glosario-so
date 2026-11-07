@@ -5,5 +5,7 @@ Característica de seguridad del núcleo Linux que permite filtrar y restringir 
 **Rol Operativo / Utilidad:** 
 Ejerce un rol crítico de *seguridad* y *abstracción* al reducir la interfaz expuesta del núcleo. El *árbitro* bloquea el *control de hardware* innecesario para los procesos aislados, protegiendo el sistema de escaladas de privilegios sin afectar el *rendimiento* general[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

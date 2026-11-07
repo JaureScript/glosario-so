@@ -5,5 +5,7 @@ Mecanismo de comunicación entre procesos (IPC) unidireccional y secuencial (FIF
 **Rol Operativo / Utilidad:** 
 Proporciona una *abstracción* elegante de *rendimiento* para el flujo concurrente de datos. El *árbitro* del núcleo reserva un búfer de memoria protegida, garantizando la *seguridad* lógica y evitando escrituras directas y lentas al *control de hardware* del almacenamiento secundario[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

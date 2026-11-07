@@ -5,5 +5,7 @@ Tecnología fundamental de emulación y particionamiento que permite crear múlt
 **Rol Operativo / Utilidad:** 
 Segmenta el *control de hardware* para maximizar la tasa de *rendimiento* y utilización global de los servidores. El *árbitro* (hipervisor) garantiza barreras de *seguridad* impenetrables, entregando la *abstracción* de una máquina enteramente dedicada a cada entorno invitado[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 5](../Índice%20Módulo%205.md)

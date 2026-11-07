@@ -5,5 +5,7 @@ Región de memoria virtual mapeada simultáneamente en las tablas de páginas de
 **Rol Operativo / Utilidad:** 
 Optimiza el *rendimiento* global de la comunicación concurrente (IPC)[cite: 4], eliminando la necesidad de que el sistema operativo copie físicamente bloques de datos entre los espacios de memoria de los procesos involucrados.
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 2](../Índice%20Módulo%202.md)

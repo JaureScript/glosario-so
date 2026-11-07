@@ -1,6 +1,32 @@
-# Índice Alfabético (A-Z)
+# Índice Alfabético
+<style>
+/* Convierte los subtítulos H2 (las letras) en globos flotantes minimalistas */
+.md-typeset h2 {
+    display: flex; /* Forzamos a que actúe como un bloque independiente (baja a la siguiente línea) */
+    align-items: center;
+    justify-content: center;
+    width: 65px;
+    height: 65px;
+    background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+    color: white !important;
+    border-radius: 50%; /* Círculo perfecto */
+    box-shadow: 0 8px 15px rgba(0,0,0,0.12); /* Sombra suave para efecto 3D */
+    margin-top: 2em; /* Más espacio arriba para separarlo del título */
+    margin-bottom: 0.5em;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: 0;
+    border: none;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* Animación elástica */
+}
 
-
+/* Efecto de levitación interactiva al pasar el ratón */
+.md-typeset h2:hover {
+    transform: translateY(-8px) scale(1.1); /* Sube y se infla un poquito */
+    box-shadow: 0 15px 25px rgba(0,0,0,0.2); /* La sombra se aleja dando ilusión de altura */
+    background: linear-gradient(135deg, var(--md-accent-fg-color), var(--md-primary-fg-color)); /* Invierte los colores */
+}
+</style>
 ## A
 - [Access Control List (ACL) / Access Control List](Modulo_5/Termino_M5_31.md)
 - [Afinidad de CPU (CPU Affinity) / CPU Affinity](Modulo_5/Termino_M5_34.md)

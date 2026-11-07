@@ -5,5 +5,7 @@ Firmware moderno basado en estándares abiertos que sustituye al BIOS tradiciona
 **Rol Operativo / Utilidad:** 
 Establece la raíz de confianza de *seguridad* y el *control de hardware* primario antes de ceder la ejecución al gestor de arranque, abstrayendo las complejidades de inicialización del *hardware* físico subyacente[cite: 4].
 
+**Cita Bibliográfica formal:** Stallings, W. (2017). *Operating Systems: Internals and Design Principles* (9th ed.). Pearson. Capítulo 5-6.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

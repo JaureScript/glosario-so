@@ -5,5 +5,7 @@ Principio fundamental de seguridad informática que establece que todo proceso, 
 **Rol Operativo / Utilidad:** 
 Pilar arquitectónico de *seguridad*. Regula cómo la capa de *abstracción* expone los recursos físicos, forzando al núcleo a actuar como un *árbitro* desconfiado que deniega por defecto el *control de hardware* a procesos no autorizados[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 4](../Índice%20Módulo%204.md)

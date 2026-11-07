@@ -5,5 +5,7 @@ Mecanismo especializado de comunicación entre procesos (IPC) y llamadas a proce
 **Rol Operativo / Utilidad:** 
 Actúa como el *árbitro* principal de comunicación, abstrayendo la complejidad del intercambio de datos entre aplicaciones aisladas para garantizar un rendimiento óptimo y un acoplamiento seguro a nivel de sistema.
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 1](../Índice%20Módulo%201.md)

@@ -5,5 +5,7 @@ Representación numérica en base 8 de los permisos de acceso UNIX (lectura, esc
 **Rol Operativo / Utilidad:** 
 Constituye la interfaz de *abstracción* estándar para aplicar políticas de *seguridad* discretas (DAC) sobre el sistema de archivos, indicándole al *árbitro* del núcleo qué procesos están autorizados para invocar operaciones de *control de hardware* sobre un inodo específico[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

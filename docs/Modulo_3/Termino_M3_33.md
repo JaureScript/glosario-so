@@ -5,5 +5,7 @@ Componente central y núcleo fundamental de un sistema operativo, responsable de
 **Rol Operativo / Utilidad:** 
 Actúa como el *árbitro* y gestor definitivo de la computadora, proporcionando *abstracción*, manteniendo la *seguridad* estructural (Modo Kernel) y optimizando el *rendimiento* global mediante el *control de hardware* a muy bajo nivel[cite: 4].
 
+**Cita Bibliográfica formal:** Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley. Capítulo 3-4.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 3](../Índice%20Módulo%203.md)

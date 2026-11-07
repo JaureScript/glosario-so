@@ -5,5 +5,7 @@ Subsistema crítico del núcleo encargado de administrar el espacio de direccion
 **Rol Operativo / Utilidad:** 
 Es el *árbitro* central del *rendimiento* de la memoria RAM. Asegura la *seguridad* aislando cada proceso dentro de su propia *abstracción* de direcciones, y comanda a la MMU para aplicar el *control de hardware* estricto en las traducciones[cite: 4].
 
+**Cita Bibliográfica formal:** Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson. Capítulo 2-3.
+
 ---
 **Navegación:** [Índice Alfabético (A-Z)](../Índice%20Alfabético%20(A-Z).md) | [Índice Módulo 6](../Índice%20Módulo%206.md)
