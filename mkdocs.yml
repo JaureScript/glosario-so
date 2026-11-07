@@ -11,7 +11,6 @@ theme:
     - search.highlight
   palette:
     # Modo claro por defecto
-    - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
       accent: blue
@@ -19,7 +18,6 @@ theme:
         icon: material/brightness-7
         name: Cambiar a modo oscuro
     # Modo oscuro
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
       accent: blue
